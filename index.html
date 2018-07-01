@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+<!-- A page for displaying visualisations of drama networks -->
+<head>
+  <title>Romantic Drama Unveiled</title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="netStyle.css">
+  <!-- Add fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Karla" rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="description" content="Network analysis of Romantic-period plays">
+  <meta name="keywords" content="Romanticism,Drama,Literature,Network Analysis,Digital Humanities,DH">
+  <meta name="author" content="Michael Falk">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+  <body>
+    <div id="wrapper">
+
+      <div class="options">
+        <h2>View Options:</h2>
+        <label>Link Strength:</label>
+        <input type="range" min="0.01" max="0.5" step="any" value="0.25" id="slider">
+        <br>
+        <label>Size nodes by: </label>
+        <button id="betw" style="background-color:#373737;color:#f4f4f4">Betweenness</button>
+        <button id="deg">Degree</button>
+        <button id="str">Strength</button>
+        <button id="wc">Word Count</button>
+        <br>
+        <label>Colour nodes by: </label>
+        <button id="gender" style="background-color:#373737;color:#f4f4f4">Gender</button>
+        <button id="class">Modularity Class</button>
+      </div>
+      <div class="projInfoBox">
+        <h2>Romantic Drama Unveiled</h2>
+        <h3>A Visualisation by Michael Falk</h3>
+        <p>Feel free to use my <a href="">code</a> and <a href="graphs.json" download>data</a>.</p>
+        <div class="dropdown">
+        <h3 class="playSelector dropdown">View Another Play</h3>
+        </div>
+      </div>
+    <script>
+
+    // Define the main elements
+    var svg = d3.select("#wrapper").append("svg");
+    var title = d3.select("#wrapper").append("div").attr("class","titleBox");
+    var char = d3.select("#wrapper").append("div").attr("class","charBox");
+    var slider = d3.select("input[type=range]").on("input", inputted);
+    var dropdown = d3.select(".dropdown").append("div").attr("class","dropdown-content");
+    var load = d3.select("#wrapper").append("div").attr("class","loadScreen");
+
+    // Add loading message and animation.
+    load.append("h1").attr("class","loadHeader").text("Romantic Drama Unveiled is Loading")
+    load.append("div").attr("class","loader");
+
+
+    // Make the color variable so the graph is pretty
+    var color = d3.scaleOrdinal(d3.schemeSet2);
+
+    // Declare basic appearance parameters.
+    var radius = 25, stroke = 12, radMin = 4, strokeMin = 0.5;
+
+    // Set up the force layout algorithm
+    var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink()
+                          .strength(0.25)
+                          .id(function(d) { return d.char; }))
+        .force("charge", d3.forceManyBody().strength(-200))
+        .alphaDecay(0.1);
+
+    // Set up the scale for the node size parameters.
+    var nsNode = d3.scaleLinear().domain([0,1]).range([radMin,radius]);
+
+    // Import the data and apply layout.
+    d3.json("graphs.json").then(function(allGraphs) {
+
+      // Once the data is loaded, remove the loading screen.
+      load.remove();
+
+      // Set up scale for edge weight
+      var edgeScale = d3.scaleLinear().domain([0,1200]).range([strokeMin,stroke]);
+
+      // Resize the svg
+      resize();
+      d3.select(window).on("resize", resize);
+
+      // Create play selector.
+      var plays = Object.keys(allGraphs);
+      plays.forEach(function(key){
+        dropdown.append("p").attr("id", "choose" + key).text(allGraphs[key].meta.title);
+        d3.select("#choose" + key).on("click", function() {
+          clearSim();
+          runSim(key);
+        })
+      })
+
+      // Run the simulation for the first time, using Harpur as the initial option.
+      runSim("harpur");
+
+      // Function to clear the current simulation.
+      function clearSim() {
+        // Reset the options
+        d3.select("#betw").style("background-color","#373737").style("color","#f4f4f4");
+        d3.select("#deg").style("background-color","#c0b283").style("color","#373737");
+        d3.select("#str").style("background-color","#c0b283").style("color","#373737");
+        d3.select("#wc").style("background-color","#c0b283").style("color","#373737");
+        d3.select("#gender").style("background-color","#373737").style("color","#f4f4f4");
+        d3.select("#class").style("background-color","#c0b283").style("color","#373737");
+        document.getElementById("slider").value = 0.25;
+        simulation.force("link").strength(0.25)
+        // Remove existing graph and title information
+        char.html(null);
+        svg.html(null);
+        title.html(null);
+
+        // Reset the simulation:
+        simulation.alpha(1).restart()
+      }
+
+      // Function to create a new simulation.
+      function runSim(play) {
+
+        var graph = allGraphs[play]
+
+        var link = svg.append("g")
+            .attr("class", "links")
+          .selectAll("line")
+          .data(graph.links)
+          .enter().append("line")
+            .attr("stroke-width", function(d) { return edgeScale(d.wCount); });
+
+        var node = svg.append("g")
+            .attr("class", "nodes")
+          .selectAll("circle")
+          .data(graph.nodes)
+          .enter().append("circle")
+            .attr("r", function(d) {
+              var max = Math.max(...graph.nodes.map(function(a) {return a.betw;}));
+              return nsNode(d.betw / max);
+            })
+            .attr("fill", function(d) { return color(d.gender); })
+            .attr("tabindex", "0") // makes elements focusable
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended))
+            .on("focus", charBox)
+
+        // Add title.
+        title.append("h1").text(graph.meta.title)
+        title.append("h2").text(graph.meta.author)
+        title.append("h3").text(graph.meta.date)
+
+        // Run simulation
+        simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(graph.links);
+
+        function ticked() {
+          link
+              .attr("x1", function(d) { return d.source.x; })
+              .attr("y1", function(d) { return d.source.y; })
+              .attr("x2", function(d) { return d.target.x; })
+              .attr("y2", function(d) { return d.target.y; });
+
+          node
+              .attr("cx", function(d) { return d.x = Math.max(radius, Math.min(width - radius, d.x));
+              })
+              .attr("cy", function(d) { return d.y = Math.max(radius, Math.min(height - 5, d.y));
+              });
+        }
+
+
+        // Functions to make the buttons work.
+        function betw() {
+          var max = Math.max(...graph.nodes.map(function(a) {return a.betw;}));
+          node.transition().duration(2000).attr("r", function(d) { return nsNode(d.betw / max); });
+          d3.select("#betw").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#deg").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#str").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#wc").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+        function deg() {
+          var max = Math.max(...graph.nodes.map(function(a) {return a.deg;}));
+          node.transition().duration(2000).attr("r", function(d) { return nsNode(d.deg / max); });
+          d3.select("#deg").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#betw").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#str").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#wc").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+        function str() {
+          var max = Math.max(...graph.nodes.map(function(a) {return a.str;}));
+          node.transition().duration(2000).attr("r", function(d) { return nsNode(d.str /max); }).transition();
+          d3.select("#str").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#betw").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#deg").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#wc").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+        function wc() {
+          var max = Math.max(...graph.nodes.map(function(a) {return a.wCount;}));
+          node.transition().duration(2000).attr("r", function(d) { return nsNode(d.wCount/max); }).transition();
+          d3.select("#wc").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#betw").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#deg").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+          d3.select("#str").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+
+        function genButton() {
+          node.transition().duration(2000).attr("fill", function(d) { return color(d.gender); }).transition().duration(1000);
+          d3.select("#gender").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#class").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+        function classButton() {
+          node.transition().duration(2000).attr("fill", function(d) { return color(d.class); }).transition().duration(1000);
+          d3.select("#class").transition().duration(2000).style("background-color","#373737").style("color","#f4f4f4");
+          d3.select("#gender").transition().duration(2000).style("background-color","#c0b283").style("color","#373737");
+        }
+        // Event listeners for the buttons.
+        d3.select("#betw").on("click", betw);
+        d3.select("#deg").on("click", deg);
+        d3.select("#str").on("click", str);
+        d3.select("#wc").on("click", wc);
+
+        d3.select("#gender").on("click", genButton);
+        d3.select("#class").on("click", classButton);
+        }
+
+    });
+
+    function dragstarted(d) {
+      if (!d3.event.active) simulation.alphaTarget(0.2).restart();
+      d.fx = d.x;
+      d.fy = d.y;
+    }
+
+    function dragged(d) {
+      d.fx = d3.event.x;
+      d.fy = d3.event.y;
+    }
+
+    function dragended(d) {
+      if (!d3.event.active) simulation.alphaTarget(0);
+      d.fx = null;
+      d.fy = null;
+    }
+
+    function resize() {
+      // Update width and height of the svg.
+      width = Math.max(window.innerWidth, 800), height = Math.max(window.innerHeight, 600);
+      // Resize the svg element.
+      svg.attr("width", width).attr("height", height);
+      // Find the new centre point of the element.
+      simulation.force("center", d3.forceCenter(width/2, height/2)).alphaTarget(0.1).restart();
+    }
+
+    // Extra functionality. Provide node-level data when you click on a node.
+    function charBox(d) {
+      // Clear old charBox
+      char.selectAll("h2").remove();
+      char.selectAll("p").remove();
+      // Make character's name the heading of the box
+      char.append("h2").text(d.name);
+      // Add other info
+      char.append("p").html("<strong>Gender: </strong>" + gender(d.gender));
+      char.append("p").html("<strong>Wordcount: </strong>" + d.wCount);
+      char.append("p").html("<strong>Degree: </strong>" + d.deg);
+      char.append("p").html("<strong>Strength: </strong>" + d.str);
+      char.append("p").html("<strong>Betweenness: </strong>" + d.betw);
+      char.append("p").html("<strong>Most Distinctive Words: </strong>" + d.top10words.replace(/ /g, ", "));
+    }
+
+    // Turn a gender number into a string.
+    function gender(x) {
+      // @x is a number
+      if (x === 1) {
+        return "Female";
+      } else if (x === 2) {
+        return "Male";
+      } else {
+        return "Indeterminate";
+      }
+    }
+
+    // Use slider to adjust link strength.
+    function inputted() {
+      simulation.force("link").strength(+this.value)
+      simulation.alpha(1).restart();
+    }
+
+
+    </script>
+</div>
+</body>
+</html>

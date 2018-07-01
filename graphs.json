@@ -1,0 +1,6391 @@
+{
+  "dream": {
+    "meta": {
+      "title": "The Dream",
+      "author": "Joanna Baillie",
+      "date":   1812
+    },
+    "nodes": [
+      {
+        "char": "agn",
+        "name": "Agnes",
+        "gender":      1,
+        "wCount":    363,
+        "top10words": "morand passage bottom disguised dress opening castle free secret seen",
+        "betw":     18,
+        "deg":      9,
+        "str":    823,
+        "class":      3
+      },
+      {
+        "char": "amb",
+        "name": "Ambassador",
+        "gender":      2,
+        "wCount":    354,
+        "top10words": "delivered honours inter removed solemn troops laid state shall brave",
+        "betw":     54,
+        "deg":     16,
+        "str":    638,
+        "class":      2
+      },
+      {
+        "char": "ben",
+        "name": "Benedict",
+        "gender":      2,
+        "wCount":    950,
+        "top10words": "fears purchased shedding venture dangerous human protection faith man brother",
+        "betw":     69,
+        "deg":     24,
+        "str":   2017,
+        "class":      1
+      },
+      {
+        "char": "exe",
+        "name": "Executioners",
+        "gender":      3,
+        "wCount":     15,
+        "top10words": "press sign gives ready does stroke hand stop immediately when",
+        "betw":      0,
+        "deg":      4,
+        "str":     66,
+        "class":      6
+      },
+      {
+        "char": "gen",
+        "name": "Ambassador's Gentlemen",
+        "gender":      3,
+        "wCount":     10,
+        "top10words": "extinguished spark looks face thus yes every never till life",
+        "betw":      0,
+        "deg":      2,
+        "str":     33,
+        "class":      4
+      },
+      {
+        "char": "jer",
+        "name": "Jerome",
+        "gender":      2,
+        "wCount":   1361,
+        "top10words": "son paul thy form imagination retire said frame satisfied thou",
+        "betw":     94,
+        "deg":     16,
+        "str":   2485,
+        "class":      1
+      },
+      {
+        "char": "lay",
+        "name": "Lay Brother",
+        "gender":      2,
+        "wCount":     38,
+        "top10words": "messenger yesterday please taken beseeching marchioness point said women sent",
+        "betw":      0,
+        "deg":      3,
+        "str":     66,
+        "class":      1
+      },
+      {
+        "char": "leo",
+        "name": "Leonora",
+        "gender":      1,
+        "wCount":    719,
+        "top10words": "agnes benedict thou thy osterloo his disguise forthwithcome iscome marriage",
+        "betw":     55,
+        "deg":     15,
+        "str":   1449,
+        "class":      3
+      },
+      {
+        "char": "mon",
+        "name": "Monks",
+        "gender":      3,
+        "wCount":     67,
+        "top10words": "administering brazen couch helmet office othe preference sickness unfit woollen",
+        "betw":      0,
+        "deg":      8,
+        "str":    242,
+        "class":      2
+      },
+      {
+        "char": "mor",
+        "name": "Morand",
+        "gender":      2,
+        "wCount":    515,
+        "top10words": "work broken coffin his thou age fighting haggarded places quenched",
+        "betw":     51,
+        "deg":     17,
+        "str":   1029,
+        "class":      2
+      },
+      {
+        "char": "off",
+        "name": "Officers",
+        "gender":      3,
+        "wCount":     57,
+        "top10words": "careful forward murmur pressing scruples shelter wintry change fulfil got",
+        "betw":      0,
+        "deg":      5,
+        "str":    129,
+        "class":      1
+      },
+      {
+        "char": "ost",
+        "name": "Osterloo",
+        "gender":      2,
+        "wCount":   1714,
+        "top10words": "loved twilight day did thou before albert arm darkened horrors",
+        "betw":    122,
+        "deg":     23,
+        "str":   3789,
+        "class":      1
+      },
+      {
+        "char": "pau",
+        "name": "Paul",
+        "gender":      2,
+        "wCount":    186,
+        "top10words": "waking whole before did immediately awoke broke circumstance commotion distinct",
+        "betw":      0,
+        "deg":     13,
+        "str":    443,
+        "class":      1
+      },
+      {
+        "char": "pea",
+        "name": "Peasants",
+        "gender":      3,
+        "wCount":    400,
+        "top10words": "hist knows fathers gates accoutred blessings bravely desired dig hubert",
+        "betw":      8,
+        "deg":     14,
+        "str":    728,
+        "class":      2
+      },
+      {
+        "char": "pri",
+        "name": "Prior",
+        "gender":      2,
+        "wCount":   1487,
+        "top10words": "order your whole heaven compelled die draw halt sons yourselves",
+        "betw":     77,
+        "deg":     27,
+        "str":   2816,
+        "class":      1
+      },
+      {
+        "char": "ser",
+        "name": "Servants",
+        "gender":      3,
+        "wCount":     95,
+        "top10words": "postern travellers path avenue belike difficult eastern entry fond linger",
+        "betw":      0,
+        "deg":      6,
+        "str":    187,
+        "class":      5
+      },
+      {
+        "char": "sex",
+        "name": "Sexton",
+        "gender":      2,
+        "wCount":    214,
+        "top10words": "size inscriptions planks skeleton entire ant put together common coffin",
+        "betw":      0,
+        "deg":     14,
+        "str":    434,
+        "class":      2
+      },
+      {
+        "char": "sol1",
+        "name": "Osterloo's Soldiers",
+        "gender":      3,
+        "wCount":    258,
+        "top10words": "general swear willingly behind faith lot accommodation air backbone beleagring",
+        "betw":      0,
+        "deg":      7,
+        "str":    604,
+        "class":      1
+      },
+      {
+        "char": "sol2",
+        "name": "The Prior's Soldiers",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      3,
+        "str":     63,
+        "class":      2
+      },
+      {
+        "char": "wov",
+        "name": "Wovelreid",
+        "gender":      2,
+        "wCount":    229,
+        "top10words": "pale bind devil icicle moonlight rope securely supported half priors",
+        "betw":     15,
+        "deg":     12,
+        "str":    419,
+        "class":      2
+      }
+    ],
+    "links": [
+      {
+        "source": "agn",
+        "target": "agn",
+        "wCount":     33,
+        "top10words": "her barbarians begins chambers fainting notwithstanding revive virgin ill brought"
+      },
+      {
+        "source": "amb",
+        "target": "agn",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ben",
+        "target": "agn",
+        "wCount":     64,
+        "top10words": "monk conductor disgust fly injustice misfortunes monastic oppose sanctity sordid"
+      },
+      {
+        "source": "leo",
+        "target": "agn",
+        "wCount":    278,
+        "top10words": "agnes happened marriage his lord was him foolish nothing had"
+      },
+      {
+        "source": "mor",
+        "target": "agn",
+        "wCount":     66,
+        "top10words": "thou beyond bidest cragg eagle guessed miles perch witch art"
+      },
+      {
+        "source": "gen",
+        "target": "amb",
+        "wCount":     10,
+        "top10words": "extinguished spark looks thus face every yes never life till"
+      },
+      {
+        "source": "jer",
+        "target": "amb",
+        "wCount":     74,
+        "top10words": "which crisped empires event globe gossamer hangs impressing inform off"
+      },
+      {
+        "source": "mor",
+        "target": "amb",
+        "wCount":     39,
+        "top10words": "according lamely maintain simple stoutly lord explain point swords against"
+      },
+      {
+        "source": "pri",
+        "target": "amb",
+        "wCount":     47,
+        "top10words": "attest bavaria behold dealt deceased effects lewis personal practised produced"
+      },
+      {
+        "source": "agn",
+        "target": "ben",
+        "wCount":     30,
+        "top10words": "bottom disguised dress opening prisonchamber leading passage person wardrobe free"
+      },
+      {
+        "source": "amb",
+        "target": "ben",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ben",
+        "target": "ben",
+        "wCount":     25,
+        "top10words": "miserable most alas creature manbrave subdued swift foot penitence goodly"
+      },
+      {
+        "source": "jer",
+        "target": "ben",
+        "wCount":    185,
+        "top10words": "satisfied paul brother thou well things other thee dost admit"
+      },
+      {
+        "source": "leo",
+        "target": "ben",
+        "wCount":    271,
+        "top10words": "benedict thy good thou will thing alas father end miserable"
+      },
+      {
+        "source": "mor",
+        "target": "ben",
+        "wCount":     54,
+        "top10words": "age haggarded places quenched slowly sockets walks hither reason work"
+      },
+      {
+        "source": "ost",
+        "target": "ben",
+        "wCount":    164,
+        "top10words": "day twilight loved all leonora thank narrow her you active"
+      },
+      {
+        "source": "pea",
+        "target": "ben",
+        "wCount":     31,
+        "top10words": "fathers blessings revives enter knows receive care gates day god"
+      },
+      {
+        "source": "pri",
+        "target": "ben",
+        "wCount":    269,
+        "top10words": "thee was beware more assemble die must another advances him"
+      },
+      {
+        "source": "ser",
+        "target": "ben",
+        "wCount":      5,
+        "top10words": "know father fear well not abbess abhorrence abide abiding about"
+      },
+      {
+        "source": "sex",
+        "target": "ben",
+        "wCount":     14,
+        "top10words": "inscriptions planks skeleton entire size common together time put had"
+      },
+      {
+        "source": "amb",
+        "target": "exe",
+        "wCount":     32,
+        "top10words": "stop peril liege command emperor name your execution delivered honours"
+      },
+      {
+        "source": "exe",
+        "target": "exe",
+        "wCount":     15,
+        "top10words": "press sign gives ready does stroke hand stop when immediately"
+      },
+      {
+        "source": "pri",
+        "target": "exe",
+        "wCount":      4,
+        "top10words": "stroke give without then abbess abhorrence abide abiding about above"
+      },
+      {
+        "source": "amb",
+        "target": "gen",
+        "wCount":     23,
+        "top10words": "dead truth very delivered honours inter removed think solemn troops"
+      },
+      {
+        "source": "amb",
+        "target": "jer",
+        "wCount":     39,
+        "top10words": "cheat explain listen loss master revenge gallant imperial wilt shall"
+      },
+      {
+        "source": "ben",
+        "target": "jer",
+        "wCount":    215,
+        "top10words": "jerome hadst hermit usual thou brother never thy some dream"
+      },
+      {
+        "source": "jer",
+        "target": "jer",
+        "wCount":     48,
+        "top10words": "accidental animals brokenup clouds daythoughts drifting fantastic incongruous mimicry remnants"
+      },
+      {
+        "source": "ost",
+        "target": "jer",
+        "wCount":    455,
+        "top10words": "you before man that between dark gulf needst yawns did"
+      },
+      {
+        "source": "pau",
+        "target": "jer",
+        "wCount":    149,
+        "top10words": "waking did can voice whole before sight that look last"
+      },
+      {
+        "source": "pea",
+        "target": "jer",
+        "wCount":     93,
+        "top10words": "village ten fathers ever banners corpses crag lad topmost waving"
+      },
+      {
+        "source": "pri",
+        "target": "jer",
+        "wCount":    111,
+        "top10words": "apartment must him favorite hearing question several understands thou speak"
+      },
+      {
+        "source": "sex",
+        "target": "jer",
+        "wCount":     14,
+        "top10words": "inscriptions planks skeleton entire size common together time put had"
+      },
+      {
+        "source": "ben",
+        "target": "lay",
+        "wCount":     18,
+        "top10words": "purchased shedding venture dangerous human protection duty faith about blood"
+      },
+      {
+        "source": "pri",
+        "target": "lay",
+        "wCount":     10,
+        "top10words": "glad only penitent matter then will what this who with"
+      },
+      {
+        "source": "agn",
+        "target": "leo",
+        "wCount":    236,
+        "top10words": "seen you have him free that castle friend count all"
+      },
+      {
+        "source": "amb",
+        "target": "leo",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ben",
+        "target": "leo",
+        "wCount":    202,
+        "top10words": "for ever guilty moved sacred his not lady monk but"
+      },
+      {
+        "source": "leo",
+        "target": "leo",
+        "wCount":     17,
+        "top10words": "mistake changed god hand great thy osterloo some been how"
+      },
+      {
+        "source": "mor",
+        "target": "leo",
+        "wCount":     31,
+        "top10words": "you forgot porch revived safely support extremity desire glad pardon"
+      },
+      {
+        "source": "ost",
+        "target": "leo",
+        "wCount":    176,
+        "top10words": "art loved thou whom thee blessed strength deliverance pardon from"
+      },
+      {
+        "source": "ser",
+        "target": "leo",
+        "wCount":      9,
+        "top10words": "admitted arrived desire gate travellers night are there for abbess"
+      },
+      {
+        "source": "wov",
+        "target": "leo",
+        "wCount":     40,
+        "top10words": "suffer bind devil icicle moonlight prisoner rope securely supported half"
+      },
+      {
+        "source": "amb",
+        "target": "mon",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ben",
+        "target": "mon",
+        "wCount":     48,
+        "top10words": "fears man alas bold capable innocent united hush bravest changed"
+      },
+      {
+        "source": "mor",
+        "target": "mon",
+        "wCount":     66,
+        "top10words": "points valiantly him age haggarded places quenched slowly sockets walks"
+      },
+      {
+        "source": "pri",
+        "target": "mon",
+        "wCount":     28,
+        "top10words": "anselmo comfort cells dying employ given devotion prayer sons warn"
+      },
+      {
+        "source": "sex",
+        "target": "mon",
+        "wCount":     14,
+        "top10words": "inscriptions planks skeleton entire size common together time put had"
+      },
+      {
+        "source": "agn",
+        "target": "mor",
+        "wCount":     64,
+        "top10words": "morand way little dearer drawing grumbling leaderwhat towards assuredly chide"
+      },
+      {
+        "source": "amb",
+        "target": "mor",
+        "wCount":     80,
+        "top10words": "art known blast boldly earthly emperors encreased fame hirelings rank"
+      },
+      {
+        "source": "ben",
+        "target": "mor",
+        "wCount":     40,
+        "top10words": "fears man alas bold capable innocent perfectly united warm lieutenant"
+      },
+      {
+        "source": "leo",
+        "target": "mor",
+        "wCount":     11,
+        "top10words": "servants dont pray thank follow without you are but let"
+      },
+      {
+        "source": "mon",
+        "target": "mor",
+        "wCount":     29,
+        "top10words": "seen brazen couch helmet woollen hast morand cowl sometimes does"
+      },
+      {
+        "source": "ost",
+        "target": "mor",
+        "wCount":      2,
+        "top10words": "matter what abbess abhorrence abide abiding about above absence absent"
+      },
+      {
+        "source": "pea",
+        "target": "mor",
+        "wCount":     72,
+        "top10words": "hist lieutenant boasted flame flood his aye accoutred bravely hubert"
+      },
+      {
+        "source": "sex",
+        "target": "mor",
+        "wCount":    167,
+        "top10words": "money think vault ill put made apt bungled cholic clumsy"
+      },
+      {
+        "source": "wov",
+        "target": "mor",
+        "wCount":     49,
+        "top10words": "betrayed him lament hence besides bind devil icicle moonlight rope"
+      },
+      {
+        "source": "ost",
+        "target": "off",
+        "wCount":     26,
+        "top10words": "albert generous honest friendship mutinous shalt stead dear thanks thinkest"
+      },
+      {
+        "source": "pri",
+        "target": "off",
+        "wCount":     46,
+        "top10words": "commanding drawn election faint nearest patron sable scroll shew chief"
+      },
+      {
+        "source": "ben",
+        "target": "ost",
+        "wCount":    101,
+        "top10words": "osterloo noble lord besides what you affection awhile followers reflected"
+      },
+      {
+        "source": "jer",
+        "target": "ost",
+        "wCount":    742,
+        "top10words": "son thy you was said eyes from that devotion soul"
+      },
+      {
+        "source": "leo",
+        "target": "ost",
+        "wCount":    132,
+        "top10words": "door rise osterloo right deliverance key know return thee hand"
+      },
+      {
+        "source": "off",
+        "target": "ost",
+        "wCount":     26,
+        "top10words": "scruples change fulfil got mutinous stead mine penance friend general"
+      },
+      {
+        "source": "ost",
+        "target": "ost",
+        "wCount":    105,
+        "top10words": "fearful awake slept yes abiding accounti beo brinkam burst chance"
+      },
+      {
+        "source": "pau",
+        "target": "ost",
+        "wCount":      2,
+        "top10words": "immediately let abbess abhorrence abide abiding about above absence absent"
+      },
+      {
+        "source": "pea",
+        "target": "ost",
+        "wCount":      8,
+        "top10words": "desired dig grave found prior have what for abbess abhorrence"
+      },
+      {
+        "source": "pri",
+        "target": "ost",
+        "wCount":    742,
+        "top10words": "you your count compelled draw our lot lives which heaven"
+      },
+      {
+        "source": "sex",
+        "target": "ost",
+        "wCount":      8,
+        "top10words": "loose bone wanting coffin hand right there not abbess abhorrence"
+      },
+      {
+        "source": "sol1",
+        "target": "ost",
+        "wCount":    106,
+        "top10words": "swear willingly general god beleagring brandy building catoninetails dexterity etc"
+      },
+      {
+        "source": "wov",
+        "target": "ost",
+        "wCount":    103,
+        "top10words": "priors pale hold leagues orders repair sir captain distant enemy"
+      },
+      {
+        "source": "amb",
+        "target": "pau",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ben",
+        "target": "pau",
+        "wCount":     20,
+        "top10words": "purchased shedding venture dangerous human protection duty faith about blood"
+      },
+      {
+        "source": "jer",
+        "target": "pau",
+        "wCount":    161,
+        "top10words": "appeared than was thee last told believed concealment delayed express"
+      },
+      {
+        "source": "pau",
+        "target": "pau",
+        "wCount":      2,
+        "top10words": "immediately let abbess abhorrence abide abiding about above absence absent"
+      },
+      {
+        "source": "pea",
+        "target": "pau",
+        "wCount":     15,
+        "top10words": "marching trumpet army distance mountains amongst nothing hear say father"
+      },
+      {
+        "source": "pri",
+        "target": "pau",
+        "wCount":     24,
+        "top10words": "son cells employ devotion prayer sons warn bell attend retire"
+      },
+      {
+        "source": "sex",
+        "target": "pau",
+        "wCount":     14,
+        "top10words": "inscriptions planks skeleton entire size common together time put had"
+      },
+      {
+        "source": "ben",
+        "target": "pea",
+        "wCount":      2,
+        "top10words": "immediately let abbess abhorrence abide abiding about above absence absent"
+      },
+      {
+        "source": "jer",
+        "target": "pea",
+        "wCount":     66,
+        "top10words": "retire you charge gates blessing relief tempt trumpets without advance"
+      },
+      {
+        "source": "mor",
+        "target": "pea",
+        "wCount":     98,
+        "top10words": "his been has affable although ensigns favourites fields flying greatest"
+      },
+      {
+        "source": "ost",
+        "target": "pea",
+        "wCount":      6,
+        "top10words": "found what hast thou that abbess abhorrence abide abiding about"
+      },
+      {
+        "source": "pau",
+        "target": "pea",
+        "wCount":      5,
+        "top10words": "matter immediately there what let abbess abhorrence abide abiding about"
+      },
+      {
+        "source": "pea",
+        "target": "pea",
+        "wCount":    107,
+        "top10words": "hist amongst beat echoes fought hearts laupen measure morgarten remind"
+      },
+      {
+        "source": "pri",
+        "target": "pea",
+        "wCount":     44,
+        "top10words": "dont communicating houses torch near bear daughter infection children keep"
+      },
+      {
+        "source": "amb",
+        "target": "pri",
+        "wCount":    161,
+        "top10words": "master power your prior shall imperial this which abused block"
+      },
+      {
+        "source": "ben",
+        "target": "pri",
+        "wCount":    195,
+        "top10words": "father reverend from crime your penitent our though you bethink"
+      },
+      {
+        "source": "jer",
+        "target": "pri",
+        "wCount":     72,
+        "top10words": "father reverend speak changed you assistance convulsion ghostly hurry need"
+      },
+      {
+        "source": "lay",
+        "target": "pri",
+        "wCount":     38,
+        "top10words": "messenger yesterday please taken beseeching ill marchioness point said women"
+      },
+      {
+        "source": "mon",
+        "target": "pri",
+        "wCount":     25,
+        "top10words": "administering office othe preference sickness unfit comfort best dying paul"
+      },
+      {
+        "source": "off",
+        "target": "pri",
+        "wCount":     20,
+        "top10words": "forward pressing shelter wintry down cold fast going sun reverend"
+      },
+      {
+        "source": "ost",
+        "target": "pri",
+        "wCount":    577,
+        "top10words": "your him you pain thrust was reverend did father penance"
+      },
+      {
+        "source": "pau",
+        "target": "pri",
+        "wCount":     17,
+        "top10words": "escaped fever neer beseech contagion dont malady reverend send where"
+      },
+      {
+        "source": "pea",
+        "target": "pri",
+        "wCount":     74,
+        "top10words": "reverence spot nothing very above bells bless burials coffins deathwatch"
+      },
+      {
+        "source": "pri",
+        "target": "pri",
+        "wCount":     90,
+        "top10words": "send alsoi benefactors bequeath bring castlehe closesearching disappointed flaw garment"
+      },
+      {
+        "source": "sex",
+        "target": "pri",
+        "wCount":     25,
+        "top10words": "size contain giant almost ant coffin please might inscriptions planks"
+      },
+      {
+        "source": "sol1",
+        "target": "pri",
+        "wCount":     18,
+        "top10words": "sunset mountain tomorrows nor monks neither reverend look general monastery"
+      },
+      {
+        "source": "wov",
+        "target": "pri",
+        "wCount":     17,
+        "top10words": "chamber prison secure lord business mine obey confess made conduct"
+      },
+      {
+        "source": "ben",
+        "target": "ser",
+        "wCount":      7,
+        "top10words": "torchman trust path right thou this with abbess abhorrence abide"
+      },
+      {
+        "source": "leo",
+        "target": "ser",
+        "wCount":      4,
+        "top10words": "evil hour come they abbess abhorrence abide abiding about above"
+      },
+      {
+        "source": "ser",
+        "target": "ser",
+        "wCount":     81,
+        "top10words": "postern they path monks avenue belike difficult eastern entry fond"
+      },
+      {
+        "source": "ben",
+        "target": "sex",
+        "wCount":     13,
+        "top10words": "inscription openbreak sexton break open found there what hast thou"
+      },
+      {
+        "source": "jer",
+        "target": "sex",
+        "wCount":     13,
+        "top10words": "inscription openbreak sexton break open found there what hast thou"
+      },
+      {
+        "source": "mon",
+        "target": "sex",
+        "wCount":     13,
+        "top10words": "inscription openbreak sexton break open found there what hast thou"
+      },
+      {
+        "source": "mor",
+        "target": "sex",
+        "wCount":    107,
+        "top10words": "coffin bones inscription sexton ground action animal carnivorous consumable cransh"
+      },
+      {
+        "source": "ost",
+        "target": "sex",
+        "wCount":      1,
+        "top10words": "entire abbess abhorrence abide abiding about above absence absent abused"
+      },
+      {
+        "source": "pau",
+        "target": "sex",
+        "wCount":     13,
+        "top10words": "inscription openbreak sexton break open found there what hast thou"
+      },
+      {
+        "source": "pri",
+        "target": "sex",
+        "wCount":     18,
+        "top10words": "inscription found hast openbreak sexton what break friend open thou"
+      },
+      {
+        "source": "off",
+        "target": "sol1",
+        "wCount":     11,
+        "top10words": "careful murmur friends always comes general here your you not"
+      },
+      {
+        "source": "ost",
+        "target": "sol1",
+        "wCount":    158,
+        "top10words": "farewell you march good continue command your wilt all aisles"
+      },
+      {
+        "source": "pri",
+        "target": "sol1",
+        "wCount":     43,
+        "top10words": "officers soldiers advance commanding faint four patron chief halt powerful"
+      },
+      {
+        "source": "sol1",
+        "target": "sol1",
+        "wCount":    134,
+        "top10words": "lot behind night amongst will faith would accommodation air backbone"
+      },
+      {
+        "source": "amb",
+        "target": "sol2",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "ost",
+        "target": "sol2",
+        "wCount":      4,
+        "top10words": "dare prevent those who abbess abhorrence abide abiding about above"
+      },
+      {
+        "source": "wov",
+        "target": "sol2",
+        "wCount":     40,
+        "top10words": "suffer bind devil icicle moonlight prisoner rope securely supported half"
+      },
+      {
+        "source": "amb",
+        "target": "wov",
+        "wCount":     19,
+        "top10words": "delivered honours inter removed solemn troops state hands laid body"
+      },
+      {
+        "source": "leo",
+        "target": "wov",
+        "wCount":      6,
+        "top10words": "nobly reward ill pass you let abbess abhorrence abide abiding"
+      },
+      {
+        "source": "mor",
+        "target": "wov",
+        "wCount":     54,
+        "top10words": "alas base betray fiend former listless plot took his see"
+      },
+      {
+        "source": "ost",
+        "target": "wov",
+        "wCount":     40,
+        "top10words": "captains mistook too intended albert back dear haste fellows pardon"
+      },
+      {
+        "source": "pri",
+        "target": "wov",
+        "wCount":     11,
+        "top10words": "retain fool concealed sayest arms about see him thou that"
+      },
+      {
+        "source": "wov",
+        "target": "wov",
+        "wCount":     20,
+        "top10words": "abhorrence breach shrinks beset defend piteous scaffold fellow narrow see"
+      }
+    ]
+  },
+  "harpur": {
+    "meta": {
+      "title": "The Bushrangers",
+      "author": "Charles Harpur",
+      "date":   1853
+    },
+    "nodes": [
+      {
+        "char": "abe",
+        "name": "Abel",
+        "gender":      2,
+        "wCount":    862,
+        "top10words": "thy ada sweet speed dark made love how less just",
+        "betw":      0,
+        "deg":     12,
+        "str":   1484,
+        "class":      2
+      },
+      {
+        "char": "ada",
+        "name": "Ada",
+        "gender":      1,
+        "wCount":   1213,
+        "top10words": "abel not his wind promise heart you could fear indeed",
+        "betw":    136,
+        "deg":     10,
+        "str":   2592,
+        "class":      2
+      },
+      {
+        "char": "bom",
+        "name": "Bomebard",
+        "gender":      2,
+        "wCount":   1277,
+        "top10words": "says windsor yous constablary jist waliant does aint consekence dymons",
+        "betw":    242,
+        "deg":     17,
+        "str":   2185,
+        "class":      1
+      },
+      {
+        "char": "bus",
+        "name": "Bushrangers",
+        "gender":      3,
+        "wCount":    822,
+        "top10words": "welcome forest ranger nor free sorely life lift his strife",
+        "betw":      0,
+        "deg":     15,
+        "str":   2593,
+        "class":      3
+      },
+      {
+        "char": "can",
+        "name": "Cant",
+        "gender":      2,
+        "wCount":    279,
+        "top10words": "thou worships art god egypt faithful judas reprehended smilitudes son",
+        "betw":     51,
+        "deg":     11,
+        "str":    968,
+        "class":      1
+      },
+      {
+        "char": "con",
+        "name": "Constables",
+        "gender":      3,
+        "wCount":     15,
+        "top10words": "rather dram ticklish part much wound follow into place would",
+        "betw":      0,
+        "deg":      7,
+        "str":    426,
+        "class":      1
+      },
+      {
+        "char": "des",
+        "name": "Desperate",
+        "gender":      2,
+        "wCount":   1271,
+        "top10words": "welcome forest ranger free nor his hunters wherever life below",
+        "betw":      0,
+        "deg":     15,
+        "str":   2831,
+        "class":      3
+      },
+      {
+        "char": "doo",
+        "name": "Doorkeeper",
+        "gender":      2,
+        "wCount":     73,
+        "top10words": "worship ake alls axes barberrarious corporation darn dispise grow herror",
+        "betw":      0,
+        "deg":      4,
+        "str":    458,
+        "class":      4
+      },
+      {
+        "char": "dre",
+        "name": "Dreadnought",
+        "gender":      2,
+        "wCount":    770,
+        "top10words": "lads search having tussle wind full pass prepared since advised",
+        "betw":    309,
+        "deg":      9,
+        "str":    964,
+        "class":      1
+      },
+      {
+        "char": "far",
+        "name": "Farmer",
+        "gender":      2,
+        "wCount":     92,
+        "top10words": "thigh hurted sartanly thi john reckon crabtree murder agin agoing",
+        "betw":      0,
+        "deg":      7,
+        "str":    212,
+        "class":      1
+      },
+      {
+        "char": "fen",
+        "name": "Fence",
+        "gender":      2,
+        "wCount":     14,
+        "top10words": "oman mistake youre can course thats her tell old one",
+        "betw":      0,
+        "deg":      7,
+        "str":     78,
+        "class":      3
+      },
+      {
+        "char": "fil",
+        "name": "Filch",
+        "gender":      2,
+        "wCount":    700,
+        "top10words": "welcome forest free ranger nor gain finger gifted houseprigging roadwork",
+        "betw":      2,
+        "deg":     15,
+        "str":   2847,
+        "class":      3
+      },
+      {
+        "char": "lan",
+        "name": "Landlady",
+        "gender":      1,
+        "wCount":    249,
+        "top10words": "civil clean commodations liquors onights repent smart stopping mercy settle",
+        "betw":      0,
+        "deg":      9,
+        "str":    350,
+        "class":      3
+      },
+      {
+        "char": "les",
+        "name": "Mrs. Leslie",
+        "gender":      1,
+        "wCount":     97,
+        "top10words": "lucy calm sadly sweetly she thus her poor quite banish",
+        "betw":      0,
+        "deg":      6,
+        "str":    274,
+        "class":      2
+      },
+      {
+        "char": "luc",
+        "name": "Lucy Grey",
+        "gender":      1,
+        "wCount":    390,
+        "top10words": "her herself parting thoughts lover madness settled abel into she",
+        "betw":     24,
+        "deg":      6,
+        "str":    954,
+        "class":      2
+      },
+      {
+        "char": "mac",
+        "name": "Macblood",
+        "gender":      2,
+        "wCount":   1837,
+        "top10words": "welcome forest ranger his should free died nor life heres",
+        "betw":    120,
+        "deg":     20,
+        "str":   3908,
+        "class":      3
+      },
+      {
+        "char": "mar",
+        "name": "Mary",
+        "gender":      1,
+        "wCount":    183,
+        "top10words": "vale might many ask not would you afar angry attend",
+        "betw":     46,
+        "deg":     10,
+        "str":    525,
+        "class":      3
+      },
+      {
+        "char": "mrs",
+        "name": "Mrs. Fence",
+        "gender":      1,
+        "wCount":     69,
+        "top10words": "fate fresh dickens gal hearty main mope ods purses sevens",
+        "betw":     24,
+        "deg":      9,
+        "str":    129,
+        "class":      3
+      },
+      {
+        "char": "rac",
+        "name": "Rackroad",
+        "gender":      2,
+        "wCount":    953,
+        "top10words": "welcome forest ranger roads free life nor beset profession rely",
+        "betw":     42,
+        "deg":     15,
+        "str":   2861,
+        "class":      3
+      },
+      {
+        "char": "she",
+        "name": "Old Shepherd",
+        "gender":      2,
+        "wCount":    248,
+        "top10words": "guns fie arunning further invented lot walkingstick there flock sworn",
+        "betw":      0,
+        "deg":      2,
+        "str":    496,
+        "class":      5
+      },
+      {
+        "char": "sho",
+        "name": "Shoemaker",
+        "gender":      2,
+        "wCount":     39,
+        "top10words": "affidavited chanted timersome mislests morning took whats boy none neighbour",
+        "betw":      0,
+        "deg":      4,
+        "str":    265,
+        "class":      1
+      },
+      {
+        "char": "sta",
+        "name": "Stalwart",
+        "gender":      2,
+        "wCount":   3878,
+        "top10words": "such blood horrible into would sick who desperate laws their",
+        "betw":    432,
+        "deg":     26,
+        "str":   5797,
+        "class":      3
+      },
+      {
+        "char": "tai",
+        "name": "Tailor",
+        "gender":      2,
+        "wCount":    149,
+        "top10words": "exceeding magistrates nerves tunbelly weak terrible story neighbour hear awful",
+        "betw":     24,
+        "deg":      4,
+        "str":    265,
+        "class":      1
+      },
+      {
+        "char": "tun",
+        "name": "Tunbelly",
+        "gender":      2,
+        "wCount":    936,
+        "top10words": "respect sir ned mark you answer never chosen robberies rotundity",
+        "betw":    116,
+        "deg":     12,
+        "str":   1442,
+        "class":      4
+      },
+      {
+        "char": "wal",
+        "name": "Waltham",
+        "gender":      2,
+        "wCount":     62,
+        "top10words": "merciful spare glares matched misfortunes murders pause phrenzy reflect heavens",
+        "betw":      0,
+        "deg":      6,
+        "str":    220,
+        "class":      3
+      },
+      {
+        "char": "win",
+        "name": "Townsmen of Windsor",
+        "gender":      3,
+        "wCount":     29,
+        "top10words": "hoo didnt farmer neednt crabtree doesnt shot swear after stalwart",
+        "betw":      0,
+        "deg":      4,
+        "str":     69,
+        "class":      6
+      },
+      {
+        "char": "woo",
+        "name": "Woolsack",
+        "gender":      2,
+        "wCount":    110,
+        "top10words": "bench constables dreadnought appalling approved assure audacious augmenting banditti begins",
+        "betw":      0,
+        "deg":      2,
+        "str":    325,
+        "class":      4
+      }
+    ],
+    "links": [
+      {
+        "source": "abe",
+        "target": "abe",
+        "wCount":    194,
+        "top10words": "how dream ada her she came voice dark forth looks"
+      },
+      {
+        "source": "ada",
+        "target": "abe",
+        "wCount":    300,
+        "top10words": "you ocean abel perhaps keep promise fear sun yesterday may"
+      },
+      {
+        "source": "lan",
+        "target": "abe",
+        "wCount":     41,
+        "top10words": "gangs howdacious merrikul scaped youve stalwarts lord settle civil clean"
+      },
+      {
+        "source": "mac",
+        "target": "abe",
+        "wCount":     35,
+        "top10words": "decent feeling fitness quietly rob piece pretty act robbers spot"
+      },
+      {
+        "source": "sta",
+        "target": "abe",
+        "wCount":     49,
+        "top10words": "halt used whip forgotten regard speech unknown health journey sirs"
+      },
+      {
+        "source": "wal",
+        "target": "abe",
+        "wCount":      3,
+        "top10words": "have will you abel abels abhor abhorred ably about above"
+      },
+      {
+        "source": "abe",
+        "target": "ada",
+        "wCount":    510,
+        "top10words": "ada less sweet love sun just glowing precious promises dark"
+      },
+      {
+        "source": "ada",
+        "target": "ada",
+        "wCount":    198,
+        "top10words": "she grave cheek wretched lips saw was lover cold soon"
+      },
+      {
+        "source": "les",
+        "target": "ada",
+        "wCount":     14,
+        "top10words": "poor banish thus grieve peace ada always ever why will"
+      },
+      {
+        "source": "luc",
+        "target": "ada",
+        "wCount":    170,
+        "top10words": "parting you abel think adage adam admiration appears approve brook"
+      },
+      {
+        "source": "sta",
+        "target": "ada",
+        "wCount":    487,
+        "top10words": "maiden money most rich grace kisses mask riches abel future"
+      },
+      {
+        "source": "bom",
+        "target": "bom",
+        "wCount":    411,
+        "top10words": "cannon ill waliant run blazes bullets whiskerandos there bold book"
+      },
+      {
+        "source": "can",
+        "target": "bom",
+        "wCount":    105,
+        "top10words": "neighbour thou judas carrot art has poor way god blessed"
+      },
+      {
+        "source": "dre",
+        "target": "bom",
+        "wCount":    188,
+        "top10words": "lead tussle they has having lads since full began compel"
+      },
+      {
+        "source": "far",
+        "target": "bom",
+        "wCount":     35,
+        "top10words": "john crabtree forenoon settler hurted kerrijong taking thi badly thigh"
+      },
+      {
+        "source": "sho",
+        "target": "bom",
+        "wCount":      6,
+        "top10words": "course must that will you abel abels abhor abhorred ably"
+      },
+      {
+        "source": "tai",
+        "target": "bom",
+        "wCount":     23,
+        "top10words": "breeding thanks exceeding quiet honest mistake men neighbour terrible brave"
+      },
+      {
+        "source": "tun",
+        "target": "bom",
+        "wCount":    140,
+        "top10words": "ned you command worthy zeal away have enough who commended"
+      },
+      {
+        "source": "bus",
+        "target": "bus",
+        "wCount":     61,
+        "top10words": "hurra life free forest men strife liberty its hold nor"
+      },
+      {
+        "source": "des",
+        "target": "bus",
+        "wCount":    278,
+        "top10words": "welcome ranger forest his nor should last life free care"
+      },
+      {
+        "source": "fil",
+        "target": "bus",
+        "wCount":    274,
+        "top10words": "welcome ranger forest nor should his life free while betwixt"
+      },
+      {
+        "source": "mac",
+        "target": "bus",
+        "wCount":    341,
+        "top10words": "should welcome ranger his forest nor heres died bushrangers die"
+      },
+      {
+        "source": "rac",
+        "target": "bus",
+        "wCount":    252,
+        "top10words": "welcome ranger forest life nor roads should his free again"
+      },
+      {
+        "source": "sta",
+        "target": "bus",
+        "wCount":    321,
+        "top10words": "such blood into our desperate fight sick their enough would"
+      },
+      {
+        "source": "bom",
+        "target": "can",
+        "wCount":    319,
+        "top10words": "someat cant does says hayro pint rayther here off blind"
+      },
+      {
+        "source": "can",
+        "target": "can",
+        "wCount":     12,
+        "top10words": "escaped pharaoh returned egypt smilitudes types shadows verily speak hath"
+      },
+      {
+        "source": "dre",
+        "target": "can",
+        "wCount":    219,
+        "top10words": "gone lads search pass wind they having since full about"
+      },
+      {
+        "source": "far",
+        "target": "can",
+        "wCount":     12,
+        "top10words": "sartanly course thi thigh christian murder mind why yes man"
+      },
+      {
+        "source": "sta",
+        "target": "can",
+        "wCount":     20,
+        "top10words": "benches callousing elbows fare lockup lounging pitiful scragends striking taught"
+      },
+      {
+        "source": "tun",
+        "target": "can",
+        "wCount":    107,
+        "top10words": "apprehended get away you leave belief fine sea selection trusty"
+      },
+      {
+        "source": "bom",
+        "target": "con",
+        "wCount":    111,
+        "top10words": "presto justices legs windsor baton busy catchpole sarve summonses tim"
+      },
+      {
+        "source": "can",
+        "target": "con",
+        "wCount":     20,
+        "top10words": "battles neighbours quit saith vangelist faithful yourselves gate hang put"
+      },
+      {
+        "source": "con",
+        "target": "con",
+        "wCount":      8,
+        "top10words": "dram part wound rather much would for with abel abels"
+      },
+      {
+        "source": "dre",
+        "target": "con",
+        "wCount":    252,
+        "top10words": "lads wind gone ticklish search pass poltroon they having since"
+      },
+      {
+        "source": "sta",
+        "target": "con",
+        "wCount":     20,
+        "top10words": "benches callousing elbows fare lockup lounging pitiful scragends striking taught"
+      },
+      {
+        "source": "bus",
+        "target": "des",
+        "wCount":    234,
+        "top10words": "welcome ranger forest nor should his life free lived died"
+      },
+      {
+        "source": "des",
+        "target": "des",
+        "wCount":     68,
+        "top10words": "life free forest strife liberty its tis hold nor through"
+      },
+      {
+        "source": "fil",
+        "target": "des",
+        "wCount":    274,
+        "top10words": "welcome ranger forest nor should his life free while betwixt"
+      },
+      {
+        "source": "mac",
+        "target": "des",
+        "wCount":    351,
+        "top10words": "should welcome ranger his forest nor heres died bushrangers die"
+      },
+      {
+        "source": "rac",
+        "target": "des",
+        "wCount":    287,
+        "top10words": "howl welcome ranger forest life nor roads should his game"
+      },
+      {
+        "source": "sta",
+        "target": "des",
+        "wCount":    328,
+        "top10words": "such blood into our desperate fight sick their enough would"
+      },
+      {
+        "source": "doo",
+        "target": "doo",
+        "wCount":     15,
+        "top10words": "ake alls corporation bit saying whose might how think thing"
+      },
+      {
+        "source": "tun",
+        "target": "doo",
+        "wCount":    370,
+        "top10words": "sir you mark answer your rise appear hair unteachable worship"
+      },
+      {
+        "source": "bom",
+        "target": "dre",
+        "wCount":     62,
+        "top10words": "ankle fiends sprained fate two says reason blowed chasing enemy"
+      },
+      {
+        "source": "con",
+        "target": "dre",
+        "wCount":      7,
+        "top10words": "ticklish rather place follow into them this abel abels abhor"
+      },
+      {
+        "source": "dre",
+        "target": "dre",
+        "wCount":     70,
+        "top10words": "ambuscade bedfellow betrayed braggadocia drops figitty fox giblet meal moments"
+      },
+      {
+        "source": "sta",
+        "target": "dre",
+        "wCount":     55,
+        "top10words": "laughter hah curb defiance liked mane neigh toss unspancled uplifted"
+      },
+      {
+        "source": "bom",
+        "target": "far",
+        "wCount":     61,
+        "top10words": "roots tongue you desert gives guts kerrijonged napt poke pull"
+      },
+      {
+        "source": "can",
+        "target": "far",
+        "wCount":     29,
+        "top10words": "thou faith god lawful named paine prayer testament tom torment"
+      },
+      {
+        "source": "far",
+        "target": "far",
+        "wCount":     30,
+        "top10words": "agin agoing careless doctor fork forty instead ripped slippery stack"
+      },
+      {
+        "source": "bus",
+        "target": "fen",
+        "wCount":      5,
+        "top10words": "sorely already miss begin him abel abels abhor abhorred ably"
+      },
+      {
+        "source": "des",
+        "target": "fen",
+        "wCount":      9,
+        "top10words": "wherever care below above were well him not with abel"
+      },
+      {
+        "source": "fil",
+        "target": "fen",
+        "wCount":     15,
+        "top10words": "finger gifted houseprigging roadwork scrimmage wasnt business open others only"
+      },
+      {
+        "source": "mrs",
+        "target": "fen",
+        "wCount":     20,
+        "top10words": "fresh main purses sucked weighs theyre dry master purse glad"
+      },
+      {
+        "source": "rac",
+        "target": "fen",
+        "wCount":     15,
+        "top10words": "profession rely leader mine without devil matter fellow had life"
+      },
+      {
+        "source": "bus",
+        "target": "fil",
+        "wCount":    237,
+        "top10words": "welcome ranger nor forest should his life free lived died"
+      },
+      {
+        "source": "des",
+        "target": "fil",
+        "wCount":    282,
+        "top10words": "welcome ranger forest his nor should last kalendar life free"
+      },
+      {
+        "source": "fil",
+        "target": "fil",
+        "wCount":     76,
+        "top10words": "life free hold forest dame disobey jade merry after trick"
+      },
+      {
+        "source": "mac",
+        "target": "fil",
+        "wCount":    338,
+        "top10words": "should welcome ranger his forest nor heres died bushrangers die"
+      },
+      {
+        "source": "rac",
+        "target": "fil",
+        "wCount":    252,
+        "top10words": "welcome ranger forest life nor roads should his free again"
+      },
+      {
+        "source": "sta",
+        "target": "fil",
+        "wCount":    384,
+        "top10words": "such would blood into our trial being them desperate dog"
+      },
+      {
+        "source": "abe",
+        "target": "lan",
+        "wCount":      6,
+        "top10words": "due take out what you this abel abels abhor abhorred"
+      },
+      {
+        "source": "lan",
+        "target": "lan",
+        "wCount":     59,
+        "top10words": "night blackwhiskered nowadays plagues pushing robbed snack telling theyve warning"
+      },
+      {
+        "source": "mac",
+        "target": "lan",
+        "wCount":     14,
+        "top10words": "bottles couple glasses stiff landlady brandy cold two fight fill"
+      },
+      {
+        "source": "sta",
+        "target": "lan",
+        "wCount":     22,
+        "top10words": "looking sort sydney landlady tonight heard alone much himself devil"
+      },
+      {
+        "source": "ada",
+        "target": "les",
+        "wCount":     73,
+        "top10words": "mother fire wind bruised chide outweep showery tearsll wilful could"
+      },
+      {
+        "source": "les",
+        "target": "les",
+        "wCount":     13,
+        "top10words": "blighted bloom bough wintry sweetly accursed breathed bright hand thus"
+      },
+      {
+        "source": "luc",
+        "target": "les",
+        "wCount":     91,
+        "top10words": "her she mad assaults boughs cloudier consented culling decorate distempered"
+      },
+      {
+        "source": "ada",
+        "target": "luc",
+        "wCount":    365,
+        "top10words": "abel worth than clouds hearts rose ill bride doubt morning"
+      },
+      {
+        "source": "les",
+        "target": "luc",
+        "wCount":     70,
+        "top10words": "lucy she calm sadly her quite constant doleful mood rejoiced"
+      },
+      {
+        "source": "luc",
+        "target": "luc",
+        "wCount":    129,
+        "top10words": "her thoughts herself madness settled absurd bewilder bounds catching circles"
+      },
+      {
+        "source": "abe",
+        "target": "mac",
+        "wCount":     21,
+        "top10words": "singularly afraid delay dreary robber mean speed made indeed might"
+      },
+      {
+        "source": "bus",
+        "target": "mac",
+        "wCount":    238,
+        "top10words": "welcome ranger forest nor should success his life free lived"
+      },
+      {
+        "source": "des",
+        "target": "mac",
+        "wCount":    269,
+        "top10words": "welcome ranger forest his nor should life free lived died"
+      },
+      {
+        "source": "fen",
+        "target": "mac",
+        "wCount":      1,
+        "top10words": "course abel abels abhor abhorred ably about above absent absolute"
+      },
+      {
+        "source": "fil",
+        "target": "mac",
+        "wCount":    264,
+        "top10words": "welcome ranger forest nor should his cans provided trusting life"
+      },
+      {
+        "source": "lan",
+        "target": "mac",
+        "wCount":     44,
+        "top10words": "cold best drive famished varsal settle brandy civil clean commodations"
+      },
+      {
+        "source": "mac",
+        "target": "mac",
+        "wCount":    133,
+        "top10words": "his life afterclaps blindmans buff moody object playing purposed rifle"
+      },
+      {
+        "source": "mrs",
+        "target": "mac",
+        "wCount":      2,
+        "top10words": "proper thats abel abels abhor abhorred ably about above absent"
+      },
+      {
+        "source": "rac",
+        "target": "mac",
+        "wCount":    274,
+        "top10words": "welcome ranger forest life nor should his missing posting prevent"
+      },
+      {
+        "source": "sta",
+        "target": "mac",
+        "wCount":    766,
+        "top10words": "blood such that perdition storm touch her horrible would dead"
+      },
+      {
+        "source": "wal",
+        "target": "mac",
+        "wCount":     59,
+        "top10words": "merciful spare glares matched misfortunes murders pause phrenzy reflect heavens"
+      },
+      {
+        "source": "bus",
+        "target": "mar",
+        "wCount":      5,
+        "top10words": "sorely already miss begin him abel abels abhor abhorred ably"
+      },
+      {
+        "source": "des",
+        "target": "mar",
+        "wCount":      9,
+        "top10words": "wherever care below above were well him not with abel"
+      },
+      {
+        "source": "fil",
+        "target": "mar",
+        "wCount":     15,
+        "top10words": "finger gifted houseprigging roadwork scrimmage wasnt business open others only"
+      },
+      {
+        "source": "mar",
+        "target": "mar",
+        "wCount":     14,
+        "top10words": "daughter dowered her misery broken forgive god she heart has"
+      },
+      {
+        "source": "mrs",
+        "target": "mar",
+        "wCount":     47,
+        "top10words": "fate dickens gal hearty mope ods sevens sixes spoke stare"
+      },
+      {
+        "source": "rac",
+        "target": "mar",
+        "wCount":     15,
+        "top10words": "profession rely leader mine without devil matter fellow had life"
+      },
+      {
+        "source": "sta",
+        "target": "mar",
+        "wCount":    237,
+        "top10words": "mary sad vain girl laws thoughts rather than since ages"
+      },
+      {
+        "source": "bus",
+        "target": "mrs",
+        "wCount":      5,
+        "top10words": "sorely already miss begin him abel abels abhor abhorred ably"
+      },
+      {
+        "source": "des",
+        "target": "mrs",
+        "wCount":      9,
+        "top10words": "wherever care below above were well him not with abel"
+      },
+      {
+        "source": "fen",
+        "target": "mrs",
+        "wCount":     13,
+        "top10words": "oman mistake youre can thats tell her old one what"
+      },
+      {
+        "source": "fil",
+        "target": "mrs",
+        "wCount":     15,
+        "top10words": "finger gifted houseprigging roadwork scrimmage wasnt business open others only"
+      },
+      {
+        "source": "mar",
+        "target": "mrs",
+        "wCount":      3,
+        "top10words": "dry cannot heart abel abels abhor abhorred ably about above"
+      },
+      {
+        "source": "rac",
+        "target": "mrs",
+        "wCount":     15,
+        "top10words": "profession rely leader mine without devil matter fellow had life"
+      },
+      {
+        "source": "bus",
+        "target": "rac",
+        "wCount":    234,
+        "top10words": "welcome ranger forest nor should his life free lived died"
+      },
+      {
+        "source": "des",
+        "target": "rac",
+        "wCount":    296,
+        "top10words": "rope welcome ranger forest his nor should last croak lower"
+      },
+      {
+        "source": "fil",
+        "target": "rac",
+        "wCount":    274,
+        "top10words": "welcome ranger forest nor should his life free while betwixt"
+      },
+      {
+        "source": "mac",
+        "target": "rac",
+        "wCount":    360,
+        "top10words": "should welcome ranger his forest nor heres toast died bushrangers"
+      },
+      {
+        "source": "rac",
+        "target": "rac",
+        "wCount":     63,
+        "top10words": "life free forest tigers hey strife liberty its hold nor"
+      },
+      {
+        "source": "sta",
+        "target": "rac",
+        "wCount":    399,
+        "top10words": "such blood into she our who lump whom bring being"
+      },
+      {
+        "source": "she",
+        "target": "she",
+        "wCount":    248,
+        "top10words": "guns fie was there arunning further invented lot walkingstick flock"
+      },
+      {
+        "source": "bom",
+        "target": "sho",
+        "wCount":    100,
+        "top10words": "yous flat hofficer dram cetra hempror naturs nip pigeon speaks"
+      },
+      {
+        "source": "tai",
+        "target": "sho",
+        "wCount":    126,
+        "top10words": "magistrates nerves tunbelly weak story terrible hear awful cept dangerous"
+      },
+      {
+        "source": "abe",
+        "target": "sta",
+        "wCount":    102,
+        "top10words": "thy thou you baseness burthen execrable fiery godless helldrop mountainous"
+      },
+      {
+        "source": "ada",
+        "target": "sta",
+        "wCount":    277,
+        "top10words": "you fact indeed promise not bear must thus terrible house"
+      },
+      {
+        "source": "bom",
+        "target": "sta",
+        "wCount":     13,
+        "top10words": "beastly blacklivered infernal stinking wile hipped scorpiant wilderness youre damned"
+      },
+      {
+        "source": "bus",
+        "target": "sta",
+        "wCount":     47,
+        "top10words": "welcome lift again brave twere cavern clift dell fling lip"
+      },
+      {
+        "source": "des",
+        "target": "sta",
+        "wCount":     69,
+        "top10words": "welcome betide gilead balm fail hunters lift meeting neck aye"
+      },
+      {
+        "source": "dre",
+        "target": "sta",
+        "wCount":     41,
+        "top10words": "words bandy dye firea robustious scholarship three yours big learned"
+      },
+      {
+        "source": "fil",
+        "target": "sta",
+        "wCount":     71,
+        "top10words": "welcome gain outwit rarely fighting ont after avoid trick lift"
+      },
+      {
+        "source": "lan",
+        "target": "sta",
+        "wCount":     76,
+        "top10words": "cold certain hes beard deals got helzebub hugheous marcy middle"
+      },
+      {
+        "source": "mac",
+        "target": "sta",
+        "wCount":    185,
+        "top10words": "welcome tush bear she acted bound cautions corpse crazed doings"
+      },
+      {
+        "source": "mar",
+        "target": "sta",
+        "wCount":    166,
+        "top10words": "vale you might many ask not would afar angry attend"
+      },
+      {
+        "source": "rac",
+        "target": "sta",
+        "wCount":     62,
+        "top10words": "welcome owe doesnt landlady beset lift sure roads forward many"
+      },
+      {
+        "source": "sta",
+        "target": "sta",
+        "wCount":    790,
+        "top10words": "she her shame deeply parents woman hell how crime guilty"
+      },
+      {
+        "source": "bom",
+        "target": "tai",
+        "wCount":     83,
+        "top10words": "yous hofficer answer foh righthand man compacity cowards dignitty filthy"
+      },
+      {
+        "source": "sho",
+        "target": "tai",
+        "wCount":     33,
+        "top10words": "affidavited chanted timersome mislests morning took whats none boy neighbour"
+      },
+      {
+        "source": "bom",
+        "target": "tun",
+        "wCount":     97,
+        "top10words": "worships brag ease ill your across chest counteracted desarve honorableness"
+      },
+      {
+        "source": "can",
+        "target": "tun",
+        "wCount":    113,
+        "top10words": "worships reprehended worship pharoah saving your presence askelon belial bringing"
+      },
+      {
+        "source": "doo",
+        "target": "tun",
+        "wCount":     58,
+        "top10words": "worship your sir twas axes barberrarious darn dispise grow herror"
+      },
+      {
+        "source": "far",
+        "target": "tun",
+        "wCount":     15,
+        "top10words": "hurted told wise reckon truth worship heed how myself too"
+      },
+      {
+        "source": "tun",
+        "target": "tun",
+        "wCount":    104,
+        "top10words": "rotundity mere affords anatomy awanting buzz cart colt console corpulence"
+      },
+      {
+        "source": "win",
+        "target": "tun",
+        "wCount":      9,
+        "top10words": "hoo doesnt worship mind take stalwart your for abel abels"
+      },
+      {
+        "source": "woo",
+        "target": "tun",
+        "wCount":    110,
+        "top10words": "bench constables dreadnought appalling approved assure audacious augmenting banditti begins"
+      },
+      {
+        "source": "abe",
+        "target": "wal",
+        "wCount":     29,
+        "top10words": "excellent opportunity reach waltham sydney company tonight speed heres made"
+      },
+      {
+        "source": "lan",
+        "target": "wal",
+        "wCount":     29,
+        "top10words": "settle civil clean commodations liquors onights repent smart stopping mercy"
+      },
+      {
+        "source": "mac",
+        "target": "wal",
+        "wCount":     80,
+        "top10words": "heaven deed accuse country darker driving fort melt pay strive"
+      },
+      {
+        "source": "sta",
+        "target": "wal",
+        "wCount":     20,
+        "top10words": "wouldst health journey sirs friends thou find halt heres end"
+      },
+      {
+        "source": "bom",
+        "target": "win",
+        "wCount":     20,
+        "top10words": "hey crocodiles pounds rescue snacks wouldnt hundred reward wilderness roaring"
+      },
+      {
+        "source": "win",
+        "target": "win",
+        "wCount":     20,
+        "top10words": "hoo didnt farmer neednt crabtree shot swear after seeing down"
+      },
+      {
+        "source": "tun",
+        "target": "woo",
+        "wCount":    215,
+        "top10words": "robberies respect particularly sir other himself done hes his ably"
+      }
+    ]
+  },
+  "hemans": {
+    "meta": {
+      "title": "Vespers of Palermo",
+      "author": "Felicia Hemans",
+      "date":   1823
+    },
+    "nodes": [
+      {
+        "char": "alb",
+        "name": " Alberti",
+        "gender":      2,
+        "wCount":    140,
+        "top10words": "albertis anjous declines failthy faithful house knows nightand projects saving",
+        "betw":     30,
+        "deg":      4,
+        "str":    218,
+        "class":      2
+      },
+      {
+        "char": "ans",
+        "name": " Anselmo",
+        "gender":      2,
+        "wCount":    780,
+        "top10words": "your banquettings burthend contentyour crimebe harm haunted headhow heap prevailing",
+        "betw":      0,
+        "deg":     14,
+        "str":   2121,
+        "class":      1
+      },
+      {
+        "char": "att",
+        "name": " Attendants",
+        "gender":      3,
+        "wCount":     53,
+        "top10words": "bank devote gentler highborn lay retreats aid care obey green",
+        "betw":      0,
+        "deg":      6,
+        "str":    111,
+        "class":      1
+      },
+      {
+        "char": "cit",
+        "name": " Citizens",
+        "gender":      3,
+        "wCount":    152,
+        "top10words": "account againthat cry duly gate groan halfsuppressd illusion infants ithair",
+        "betw":      0,
+        "deg":      4,
+        "str":    397,
+        "class":      1
+      },
+      {
+        "char": "con",
+        "name": " Constance",
+        "gender":      1,
+        "wCount":   1564,
+        "top10words": "raimond brother thy soul thou merciful not look love have",
+        "betw":     17,
+        "deg":     18,
+        "str":   3657,
+        "class":      1
+      },
+      {
+        "char": "cou",
+        "name": " De Couci",
+        "gender":      2,
+        "wCount":    105,
+        "top10words": "absence comrades dispersed doubtful elated fatei grovelling heaviness horrors recklessly",
+        "betw":      0,
+        "deg":      4,
+        "str":    252,
+        "class":      2
+      },
+      {
+        "char": "eri",
+        "name": " Eribert",
+        "gender":      2,
+        "wCount":    677,
+        "top10words": "your feast mockd slow lady have triumph today look thus",
+        "betw":     47,
+        "deg":     12,
+        "str":   1912,
+        "class":      1
+      },
+      {
+        "char": "gui",
+        "name": " Guido",
+        "gender":      2,
+        "wCount":    361,
+        "top10words": "brother deckd delivererwe torches name blaze knelt shrines signal victor",
+        "betw":      0,
+        "deg":     16,
+        "str":   1547,
+        "class":      1
+      },
+      {
+        "char": "mes",
+        "name": " Messenger",
+        "gender":      2,
+        "wCount":     18,
+        "top10words": "demands bade fraught lord pardon tidings bear couci good life",
+        "betw":      0,
+        "deg":      2,
+        "str":     42,
+        "class":      1
+      },
+      {
+        "char": "mon",
+        "name": " Montalba",
+        "gender":      2,
+        "wCount":   1540,
+        "top10words": "have foes sword steed brethren soul were night silence thus",
+        "betw":      0,
+        "deg":     14,
+        "str":   3433,
+        "class":      1
+      },
+      {
+        "char": "nob",
+        "name": " Nobles",
+        "gender":      3,
+        "wCount":    152,
+        "top10words": "her she assembled assume boast brook glances guerdon hardly large",
+        "betw":      0,
+        "deg":      6,
+        "str":    463,
+        "class":      1
+      },
+      {
+        "char": "nun",
+        "name": " Nun",
+        "gender":      1,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":     31,
+        "class":      1
+      },
+      {
+        "char": "pea",
+        "name": " Peasants",
+        "gender":      3,
+        "wCount":    439,
+        "top10words": "dance days mark song snares are him our remember seemd",
+        "betw":      0,
+        "deg":      4,
+        "str":   1091,
+        "class":      1
+      },
+      {
+        "char": "pro",
+        "name": " Procida",
+        "gender":      2,
+        "wCount":   5296,
+        "top10words": "lands its high have that burst thy whose our freedom",
+        "betw":    174,
+        "deg":     23,
+        "str":   8577,
+        "class":      1
+      },
+      {
+        "char": "rai",
+        "name": " Raimond",
+        "gender":      2,
+        "wCount":   4432,
+        "top10words": "your father trumpets constance doth have with thou glorious crownd",
+        "betw":     64,
+        "deg":     18,
+        "str":   8110,
+        "class":      1
+      },
+      {
+        "char": "sic",
+        "name": " Sicilians",
+        "gender":      3,
+        "wCount":    270,
+        "top10words": "vesperbell gleam greets hermit loud plains shepherd summer sunset tonight",
+        "betw":      9,
+        "deg":     17,
+        "str":   1763,
+        "class":      1
+      },
+      {
+        "char": "sol",
+        "name": " Soldiers",
+        "gender":      3,
+        "wCount":     10,
+        "top10words": "montjoy anjou anjoude denis provencals rescue couci for abase abhorrent",
+        "betw":      0,
+        "deg":      3,
+        "str":     33,
+        "class":      1
+      },
+      {
+        "char": "vit",
+        "name": " Vittoria",
+        "gender":      1,
+        "wCount":   2378,
+        "top10words": "have thou thy with that their meet soul dead loved",
+        "betw":     82,
+        "deg":     22,
+        "str":   4000,
+        "class":      1
+      }
+    ],
+    "links": [
+      {
+        "source": "cou",
+        "target": "alb",
+        "wCount":     74,
+        "top10words": "absence comrades doubtful heaviness horrors rejoin reveald saidst stormthe thapproaching"
+      },
+      {
+        "source": "pro",
+        "target": "alb",
+        "wCount":      4,
+        "top10words": "speak traitor silent abase abhorrent abides abject about above abroad"
+      },
+      {
+        "source": "ans",
+        "target": "ans",
+        "wCount":     64,
+        "top10words": "creaturei faster fearfully fiercestothers footstep heroic limitsyes oerleaps perishgod volcanoeshe"
+      },
+      {
+        "source": "con",
+        "target": "ans",
+        "wCount":    209,
+        "top10words": "disturb not affectionswhat aloneit bedded bleak bloodi cicada courage daybreakwas"
+      },
+      {
+        "source": "gui",
+        "target": "ans",
+        "wCount":     15,
+        "top10words": "deckd delivererwe torches blaze shrines festive crown victor palermos are"
+      },
+      {
+        "source": "pro",
+        "target": "ans",
+        "wCount":     75,
+        "top10words": "anselmo lead begonemy beyondwhy mantleslet fallen guiltless heartand thunknown atone"
+      },
+      {
+        "source": "rai",
+        "target": "ans",
+        "wCount":    405,
+        "top10words": "father constance same gone into even crownd field abyss affectionsoh"
+      },
+      {
+        "source": "vit",
+        "target": "ans",
+        "wCount":    518,
+        "top10words": "anselmo lost peace stay fraught haste not their rejoice thou"
+      },
+      {
+        "source": "att",
+        "target": "att",
+        "wCount":     26,
+        "top10words": "bank highborn lay aid green peasants return sister sunny need"
+      },
+      {
+        "source": "rai",
+        "target": "att",
+        "wCount":     14,
+        "top10words": "naturelift helm couch face dull bear look let die heaven"
+      },
+      {
+        "source": "vit",
+        "target": "att",
+        "wCount":     18,
+        "top10words": "rivenunbar diadem fetters captive countrys worn gates haste set those"
+      },
+      {
+        "source": "cit",
+        "target": "cit",
+        "wCount":    150,
+        "top10words": "account againthat cry duly gate groan halfsuppressd illusion infants ithair"
+      },
+      {
+        "source": "pro",
+        "target": "cit",
+        "wCount":     95,
+        "top10words": "battletis camewhat descend dieay fellowbeing lends lessonshence loitering lovelinessaway onset"
+      },
+      {
+        "source": "ans",
+        "target": "con",
+        "wCount":    148,
+        "top10words": "place thou wouldst affliction certain daughter daughterhe purifies radiantly terrors"
+      },
+      {
+        "source": "con",
+        "target": "con",
+        "wCount":    147,
+        "top10words": "merciful shade avail bondagewe chastening citrons delicate delights earthhave exhaled"
+      },
+      {
+        "source": "eri",
+        "target": "con",
+        "wCount":    225,
+        "top10words": "mockd girl you sooth taught said have should strange thus"
+      },
+      {
+        "source": "gui",
+        "target": "con",
+        "wCount":     15,
+        "top10words": "deckd delivererwe torches blaze shrines festive crown victor palermos are"
+      },
+      {
+        "source": "pro",
+        "target": "con",
+        "wCount":     83,
+        "top10words": "knew affectioni burstsa deck departed heartbut loosed maidshrink nobletraitors sonay"
+      },
+      {
+        "source": "rai",
+        "target": "con",
+        "wCount":   1176,
+        "top10words": "constance love lies gentle thou thee meet eyes beloved depart"
+      },
+      {
+        "source": "sic",
+        "target": "con",
+        "wCount":     74,
+        "top10words": "vesperbell gleam greets hermit loud plains shepherd summer sunset tonight"
+      },
+      {
+        "source": "vit",
+        "target": "con",
+        "wCount":    201,
+        "top10words": "borne thou thee live arrow beforeand circled deadhow dieit forbids"
+      },
+      {
+        "source": "alb",
+        "target": "cou",
+        "wCount":    116,
+        "top10words": "bands albertis anjous declines faithful house nightand projects saving suspect"
+      },
+      {
+        "source": "cou",
+        "target": "cou",
+        "wCount":     31,
+        "top10words": "dispersed elated fatei grovelling recklessly revel slaveand soldiers unarmd unprepared"
+      },
+      {
+        "source": "con",
+        "target": "eri",
+        "wCount":    241,
+        "top10words": "brother beware you need left blends breastand dawning deathhe deprived"
+      },
+      {
+        "source": "eri",
+        "target": "eri",
+        "wCount":     30,
+        "top10words": "commandaway darkening meto ringing whatbut thascendant used ear fortunes summon"
+      },
+      {
+        "source": "mes",
+        "target": "eri",
+        "wCount":     18,
+        "top10words": "lord demands bade fraught pardon tidings couci good bear say"
+      },
+      {
+        "source": "pro",
+        "target": "eri",
+        "wCount":     12,
+        "top10words": "career reached mid reveller nations agonies fate thee thy thou"
+      },
+      {
+        "source": "sic",
+        "target": "eri",
+        "wCount":     74,
+        "top10words": "vesperbell gleam greets hermit loud plains shepherd summer sunset tonight"
+      },
+      {
+        "source": "vit",
+        "target": "eri",
+        "wCount":    860,
+        "top10words": "lord lie bridal have smile oft such attributes joys tis"
+      },
+      {
+        "source": "ans",
+        "target": "gui",
+        "wCount":     66,
+        "top10words": "your send enough banquettings burthend contentyour crimebe harm haunted headhow"
+      },
+      {
+        "source": "con",
+        "target": "gui",
+        "wCount":     12,
+        "top10words": "airfor victim bonds off let free come him these your"
+      },
+      {
+        "source": "gui",
+        "target": "gui",
+        "wCount":     31,
+        "top10words": "bemy boasts liveoppression onceaway prophecy wavercan boyish gift weak brother"
+      },
+      {
+        "source": "mon",
+        "target": "gui",
+        "wCount":      9,
+        "top10words": "brethren gaze silence means vesperbell why what thus your abase"
+      },
+      {
+        "source": "pro",
+        "target": "gui",
+        "wCount":    710,
+        "top10words": "burst whose freedom his shall our name son with shows"
+      },
+      {
+        "source": "rai",
+        "target": "gui",
+        "wCount":    205,
+        "top10words": "your before from allpitying thisaway traitorguido seem shrink crime deeds"
+      },
+      {
+        "source": "sic",
+        "target": "gui",
+        "wCount":     15,
+        "top10words": "steel pledge stay thavenging doom theirs pity amongst faith love"
+      },
+      {
+        "source": "vit",
+        "target": "gui",
+        "wCount":    117,
+        "top10words": "bride welcome adornd avengers crimes derision liveanothers memorial notes number"
+      },
+      {
+        "source": "eri",
+        "target": "mes",
+        "wCount":     24,
+        "top10words": "befit breathless illboding mienaway tomorrow hence hours talk lord haste"
+      },
+      {
+        "source": "ans",
+        "target": "mon",
+        "wCount":     55,
+        "top10words": "your enough banquettings burthend contentyour crimebe harm haunted headhow heap"
+      },
+      {
+        "source": "con",
+        "target": "mon",
+        "wCount":     12,
+        "top10words": "airfor victim bonds off let free come him these your"
+      },
+      {
+        "source": "gui",
+        "target": "mon",
+        "wCount":      6,
+        "top10words": "remains chiefs signal name our but abase abhorrent abides abject"
+      },
+      {
+        "source": "mon",
+        "target": "mon",
+        "wCount":    193,
+        "top10words": "son shall ambut ascendancy baffle barrd bereft claimshad consolation deadliest"
+      },
+      {
+        "source": "pro",
+        "target": "mon",
+        "wCount":   1029,
+        "top10words": "montalba that whose lands have burst our its whats should"
+      },
+      {
+        "source": "rai",
+        "target": "mon",
+        "wCount":    466,
+        "top10words": "your burns from shrink before you crime with montalba ours"
+      },
+      {
+        "source": "sic",
+        "target": "mon",
+        "wCount":     15,
+        "top10words": "steel pledge stay thavenging doom theirs pity amongst faith love"
+      },
+      {
+        "source": "vit",
+        "target": "mon",
+        "wCount":    117,
+        "top10words": "bride welcome adornd avengers crimes derision liveanothers memorial notes number"
+      },
+      {
+        "source": "eri",
+        "target": "nob",
+        "wCount":     79,
+        "top10words": "conquerors both clouded dispel dreamswake foamthere friendsthere harp juice lower"
+      },
+      {
+        "source": "nob",
+        "target": "nob",
+        "wCount":    148,
+        "top10words": "her she assembled assume boast brook glances guerdon hardly large"
+      },
+      {
+        "source": "sic",
+        "target": "nob",
+        "wCount":     74,
+        "top10words": "vesperbell gleam greets hermit loud plains shepherd summer sunset tonight"
+      },
+      {
+        "source": "vit",
+        "target": "nob",
+        "wCount":     10,
+        "top10words": "offer prove guests worthy feast bid welcome such may all"
+      },
+      {
+        "source": "con",
+        "target": "nun",
+        "wCount":     31,
+        "top10words": "side denied lastthere beats happy tend kind sister proudly roused"
+      },
+      {
+        "source": "pea",
+        "target": "pea",
+        "wCount":    393,
+        "top10words": "song dance mark days him snares our seemd stranger wont"
+      },
+      {
+        "source": "pro",
+        "target": "pea",
+        "wCount":    259,
+        "top10words": "indignant start well fare thus there abject above accusing avenge"
+      },
+      {
+        "source": "alb",
+        "target": "pro",
+        "wCount":     24,
+        "top10words": "failthy knows traitrous awaits nearer son meyet plot home grave"
+      },
+      {
+        "source": "ans",
+        "target": "pro",
+        "wCount":     91,
+        "top10words": "victorious vittorias delight temper your bondage terror enough banquettings burthend"
+      },
+      {
+        "source": "cit",
+        "target": "pro",
+        "wCount":      2,
+        "top10words": "lord came abase abhorrent abides abject about above abroad absence"
+      },
+      {
+        "source": "con",
+        "target": "pro",
+        "wCount":    128,
+        "top10words": "him thou art thy age alloh awayfor fatherspare heartthou himtake"
+      },
+      {
+        "source": "gui",
+        "target": "pro",
+        "wCount":    195,
+        "top10words": "knelt twas brother name ages bathed briefly busy cancelldcall creaturebut"
+      },
+      {
+        "source": "mon",
+        "target": "pro",
+        "wCount":    723,
+        "top10words": "sword betrayd were there foes thy night when their our"
+      },
+      {
+        "source": "pea",
+        "target": "pro",
+        "wCount":     46,
+        "top10words": "earn wanting indeed kindle leaders away say fiery danger presence"
+      },
+      {
+        "source": "pro",
+        "target": "pro",
+        "wCount":    218,
+        "top10words": "son raimond this avails bodings breathlessness brooding crowns deliveranceyes destinyhis"
+      },
+      {
+        "source": "rai",
+        "target": "pro",
+        "wCount":   1330,
+        "top10words": "father thou its what remembrances from high which long thy"
+      },
+      {
+        "source": "sic",
+        "target": "pro",
+        "wCount":     86,
+        "top10words": "outcast nigh revenge ancestral headwhat ithstrangers itthere lamps melodiesbut mountainechoesprocida"
+      },
+      {
+        "source": "vit",
+        "target": "pro",
+        "wCount":    438,
+        "top10words": "procida welcome lone with thou that dost visions his gaze"
+      },
+      {
+        "source": "ans",
+        "target": "rai",
+        "wCount":    201,
+        "top10words": "alas change thy arming assuage bed bloodstaind comesoh confessd conjure"
+      },
+      {
+        "source": "att",
+        "target": "rai",
+        "wCount":     25,
+        "top10words": "devote gentler retreats care tend vows dwell mayst suffer them"
+      },
+      {
+        "source": "con",
+        "target": "rai",
+        "wCount":    722,
+        "top10words": "raimond thy thou thee love look not happiness alas soul"
+      },
+      {
+        "source": "gui",
+        "target": "rai",
+        "wCount":     91,
+        "top10words": "raimond follow current deemed effaced escapedand joins longwhy menatarms mesuspicion"
+      },
+      {
+        "source": "mon",
+        "target": "rai",
+        "wCount":    585,
+        "top10words": "were death when fame steed have our borne pangs not"
+      },
+      {
+        "source": "pro",
+        "target": "rai",
+        "wCount":   1576,
+        "top10words": "thou thy thee that whose with its thus son land"
+      },
+      {
+        "source": "rai",
+        "target": "rai",
+        "wCount":    394,
+        "top10words": "shrinking blessd wherewith had aloud ours mine beam beside bewilderd"
+      },
+      {
+        "source": "sic",
+        "target": "rai",
+        "wCount":     15,
+        "top10words": "steel pledge stay thavenging doom theirs pity amongst faith love"
+      },
+      {
+        "source": "vit",
+        "target": "rai",
+        "wCount":     69,
+        "top10words": "storm battlefield battleword hunters soularise strives traitorfrom blessing deed loose"
+      },
+      {
+        "source": "ans",
+        "target": "sic",
+        "wCount":     55,
+        "top10words": "your enough banquettings burthend contentyour crimebe harm haunted headhow heap"
+      },
+      {
+        "source": "con",
+        "target": "sic",
+        "wCount":     12,
+        "top10words": "airfor victim bonds off let free come him these your"
+      },
+      {
+        "source": "gui",
+        "target": "sic",
+        "wCount":      6,
+        "top10words": "remains chiefs signal name our but abase abhorrent abides abject"
+      },
+      {
+        "source": "mon",
+        "target": "sic",
+        "wCount":     15,
+        "top10words": "dungeon guards brethren prisoner gaze silence back means vesperbell bear"
+      },
+      {
+        "source": "pro",
+        "target": "sic",
+        "wCount":    723,
+        "top10words": "shows some whose breathe dared lands burst festivity freedomand gallantlybut"
+      },
+      {
+        "source": "rai",
+        "target": "sic",
+        "wCount":    373,
+        "top10words": "your from back charge cause follow ours conradin before called"
+      },
+      {
+        "source": "sic",
+        "target": "sic",
+        "wCount":     14,
+        "top10words": "lost fly none conradinspare thaffianced spare king remember bride our"
+      },
+      {
+        "source": "vit",
+        "target": "sic",
+        "wCount":    117,
+        "top10words": "bride welcome adornd avengers crimes derision liveanothers memorial notes number"
+      },
+      {
+        "source": "eri",
+        "target": "sol",
+        "wCount":     13,
+        "top10words": "herenow chief indeed combat provencals bitter feel brave death still"
+      },
+      {
+        "source": "sol",
+        "target": "sol",
+        "wCount":     10,
+        "top10words": "montjoy anjou anjoude denis provencals rescue couci for abase abhorrent"
+      },
+      {
+        "source": "ans",
+        "target": "vit",
+        "wCount":    155,
+        "top10words": "help lady thy bleedest darkens heartthy lifeblood oncehave orbspeak purer"
+      },
+      {
+        "source": "att",
+        "target": "vit",
+        "wCount":      2,
+        "top10words": "obey lady abase abhorrent abides abject about above abroad absence"
+      },
+      {
+        "source": "con",
+        "target": "vit",
+        "wCount":     74,
+        "top10words": "formed heavenhis itit mercyoh reproach raimond dizzy sink take melt"
+      },
+      {
+        "source": "eri",
+        "target": "vit",
+        "wCount":    306,
+        "top10words": "lady thy troubled triumph vittoria well around foes today thee"
+      },
+      {
+        "source": "gui",
+        "target": "vit",
+        "wCount":     23,
+        "top10words": "willing choice find nuptials lady fear deemd wrongs art noble"
+      },
+      {
+        "source": "mon",
+        "target": "vit",
+        "wCount":     15,
+        "top10words": "flushd harvest revellers mix gay grave making feast art then"
+      },
+      {
+        "source": "nob",
+        "target": "vit",
+        "wCount":      4,
+        "top10words": "receive homage lady our abase abhorrent abides abject about above"
+      },
+      {
+        "source": "pro",
+        "target": "vit",
+        "wCount":    512,
+        "top10words": "thy thou find lady shalt its fame high soon brow"
+      },
+      {
+        "source": "rai",
+        "target": "vit",
+        "wCount":     69,
+        "top10words": "chiefdi thunderbolt crowds falchion freeshall heartand keenedged named rend sonow"
+      },
+      {
+        "source": "sic",
+        "target": "vit",
+        "wCount":     81,
+        "top10words": "neverfear vesperbell gleam greets hermit loud plains shepherd summer sunset"
+      },
+      {
+        "source": "vit",
+        "target": "vit",
+        "wCount":    147,
+        "top10words": "thou neer wilt boundless cheeks dawndor deathare faints fearthou forestdepths"
+      }
+    ]
+  },
+  "iphigenie": {
+    "meta": {
+      "title": "Iphigénie",
+      "author": "Jean Racine",
+      "date":   1674
+    },
+    "nodes": [
+      {
+        "char": "ach",
+        "name": " Achille",
+        "gender":      2,
+        "wCount":   1934,
+        "top10words": "mon mes moi venger loutrage cours coups ose premiere conduise",
+        "betw":      0,
+        "deg":     13,
+        "str":   3606,
+        "class":      2
+      },
+      {
+        "char": "aeg",
+        "name": " Aegine",
+        "gender":      1,
+        "wCount":     43,
+        "top10words": "savezvous serpent trahie conduite courezvous inhumain passe retire revele voulezvous",
+        "betw":      0,
+        "deg":      4,
+        "str":    266,
+        "class":      2
+      },
+      {
+        "char": "aga",
+        "name": " Agamemnon",
+        "gender":      2,
+        "wCount":   2358,
+        "top10words": "mes mon veux fuyez fille arcas ont cruels puissance rends",
+        "betw":     53,
+        "deg":     15,
+        "str":   5196,
+        "class":      3
+      },
+      {
+        "char": "arc",
+        "name": " Arcas",
+        "gender":      2,
+        "wCount":    505,
+        "top10words": "denvoyer feignait sacrifier etes vents amante dhonneurs gardezvous tromper roi",
+        "betw":      0,
+        "deg":      7,
+        "str":   1272,
+        "class":      3
+      },
+      {
+        "char": "cly",
+        "name": " Clytemnestre",
+        "gender":      1,
+        "wCount":   1420,
+        "top10words": "payer mon toi trahison fille craignant criminelle differe faudra festin",
+        "betw":      9,
+        "deg":     17,
+        "str":   3016,
+        "class":      3
+      },
+      {
+        "char": "dor",
+        "name": " Doris",
+        "gender":      1,
+        "wCount":    329,
+        "top10words": "ditesvous perdant devez vainqueur arriver bout concois contraints danger deplait",
+        "betw":      0,
+        "deg":      2,
+        "str":   1260,
+        "class":      1
+      },
+      {
+        "char": "eri",
+        "name": " Eriphile",
+        "gender":      1,
+        "wCount":   1253,
+        "top10words": "doris mes eux expirer mon des doivent inconnue comprendre croistu",
+        "betw":     17,
+        "deg":      9,
+        "str":   2288,
+        "class":      1
+      },
+      {
+        "char": "eur",
+        "name": " Eurybate",
+        "gender":      2,
+        "wCount":    211,
+        "top10words": "dennemis seignueur abord admirant approche avions avons bois charmee commandiez",
+        "betw":      0,
+        "deg":      5,
+        "str":    469,
+        "class":      3
+      },
+      {
+        "char": "gar",
+        "name": " Gardes",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":      6,
+        "class":      4
+      },
+      {
+        "char": "iph",
+        "name": " Iphigenie",
+        "gender":      1,
+        "wCount":   2118,
+        "top10words": "mon mes helas seigneur bonte navez rigueur alarmes malheureux transports",
+        "betw":     35,
+        "deg":     14,
+        "str":   3617,
+        "class":      2
+      },
+      {
+        "char": "uly",
+        "name": " Ulysse",
+        "gender":      2,
+        "wCount":    923,
+        "top10words": "lair flammes haute grece brille choix pleurez tantot ville sang",
+        "betw":      0,
+        "deg":      7,
+        "str":   1192,
+        "class":      3
+      }
+    ],
+    "links": [
+      {
+        "source": "ach",
+        "target": "ach",
+        "wCount":      1,
+        "top10words": "lui abaissement abandonne abandonnee abandonner abimes abominable abord absence absent"
+      },
+      {
+        "source": "aga",
+        "target": "ach",
+        "wCount":    467,
+        "top10words": "valeur vous doit thessalie lasie rends troyens ont dilion troie"
+      },
+      {
+        "source": "arc",
+        "target": "ach",
+        "wCount":    102,
+        "top10words": "implorer laccuse loffrande loracle nomme promettent pusse retomber etes toute"
+      },
+      {
+        "source": "cly",
+        "target": "ach",
+        "wCount":    166,
+        "top10words": "seigneur epoux abaissement audace aupres cherchions convient defendu dembrasser embrasser"
+      },
+      {
+        "source": "eri",
+        "target": "ach",
+        "wCount":    133,
+        "top10words": "oui quoi adoriez ate attraits compter conclu dechirer devorer ecrivait"
+      },
+      {
+        "source": "iph",
+        "target": "ach",
+        "wCount":    725,
+        "top10words": "seigneur songez mort mon recit serait doutez ecouter tantot nen"
+      },
+      {
+        "source": "uly",
+        "target": "ach",
+        "wCount":     78,
+        "top10words": "tandis attendrie choisissezvous destins fermee festins insulter linclemence menacent precieux"
+      },
+      {
+        "source": "cly",
+        "target": "aeg",
+        "wCount":     90,
+        "top10words": "constance contentez excuse mourraije nirez paresse perfides pretends rentre sors"
+      },
+      {
+        "source": "iph",
+        "target": "aeg",
+        "wCount":    133,
+        "top10words": "aegine ordonne ardent considere evanouie expliquer haisse hait inouie insolence"
+      },
+      {
+        "source": "ach",
+        "target": "aga",
+        "wCount":    828,
+        "top10words": "seigneur moi ose foi bruit vous femme honteux unir vaines"
+      },
+      {
+        "source": "aga",
+        "target": "aga",
+        "wCount":    123,
+        "top10words": "grands voila cris bravons confirmant deliberons demandiez dentendre determine deviezvous"
+      },
+      {
+        "source": "arc",
+        "target": "aga",
+        "wCount":    259,
+        "top10words": "dhonneurs vents tant avezvous seigneur depuis vous airs arrachent atree"
+      },
+      {
+        "source": "cly",
+        "target": "aga",
+        "wCount":    587,
+        "top10words": "ontils vous lasie payer barbare seigneur peut pourquoi soins donc"
+      },
+      {
+        "source": "eur",
+        "target": "aga",
+        "wCount":    124,
+        "top10words": "seignueur abord admirant approche avions avons bois charmee confessaient devance"
+      },
+      {
+        "source": "iph",
+        "target": "aga",
+        "wCount":    512,
+        "top10words": "vous plaisir permis bonte cru navez seigneur vos mon votre"
+      },
+      {
+        "source": "uly",
+        "target": "aga",
+        "wCount":    405,
+        "top10words": "flammes quelque nos pleurez ville legitime nous vous quand seul"
+      },
+      {
+        "source": "ach",
+        "target": "arc",
+        "wCount":     26,
+        "top10words": "defier larmer ecouter ditesvous aveugle craignez parlez peutil pourrait horreur"
+      },
+      {
+        "source": "aga",
+        "target": "arc",
+        "wCount":    704,
+        "top10words": "apparence laissa peux prends souviens arcas ton mille taire ulysse"
+      },
+      {
+        "source": "cly",
+        "target": "arc",
+        "wCount":     37,
+        "top10words": "arcas abominable alisse craindronsnous expliquezvous jirai ordonneraient courons morte voisje"
+      },
+      {
+        "source": "ach",
+        "target": "cly",
+        "wCount":    173,
+        "top10words": "croyez vais madame appartement apporte auront celui cherir conte daller"
+      },
+      {
+        "source": "aeg",
+        "target": "cly",
+        "wCount":     34,
+        "top10words": "savezvous serpent trahie conduite courezvous inhumain revele retire sein voulezvous"
+      },
+      {
+        "source": "aga",
+        "target": "cly",
+        "wCount":    323,
+        "top10words": "madame croie vous mes lavez raisons fuyez marcher pompe puisque"
+      },
+      {
+        "source": "arc",
+        "target": "cly",
+        "wCount":    129,
+        "top10words": "amis appuyer barrieres brise ceremonie defenseur detourner devouer exauce fumante"
+      },
+      {
+        "source": "cly",
+        "target": "cly",
+        "wCount":    213,
+        "top10words": "toi monstre dieu quoi abimes accuses appretes appris arretez brises"
+      },
+      {
+        "source": "eur",
+        "target": "cly",
+        "wCount":     87,
+        "top10words": "dennemis commandiez contraint deposseder dissiper exige lenvelopper offrande opposer regne"
+      },
+      {
+        "source": "iph",
+        "target": "cly",
+        "wCount":    201,
+        "top10words": "fruit madame malheureux trop peuple vos achever aigrirait approches astre"
+      },
+      {
+        "source": "uly",
+        "target": "cly",
+        "wCount":    436,
+        "top10words": "elle lair tantot dit deja larmee puisque bucher dieu etait"
+      },
+      {
+        "source": "eri",
+        "target": "dor",
+        "wCount":    931,
+        "top10words": "doris eux expirer elle des contre fait tout les croistu"
+      },
+      {
+        "source": "ach",
+        "target": "eri",
+        "wCount":    151,
+        "top10words": "fuit moment combattaient commis delivre devancee eloquence employant entreprise entrons"
+      },
+      {
+        "source": "cly",
+        "target": "eri",
+        "wCount":     25,
+        "top10words": "cheres eclairci retraite livre secrets desseins cherchez suivre presse nest"
+      },
+      {
+        "source": "dor",
+        "target": "eri",
+        "wCount":    329,
+        "top10words": "ditesvous madame perdant fut avec vous toujours devez elle vainqueur"
+      },
+      {
+        "source": "eri",
+        "target": "eri",
+        "wCount":     20,
+        "top10words": "injures murmures orgueilleuse quentendsje souffriraije taime rivale nouvelle honte plutot"
+      },
+      {
+        "source": "iph",
+        "target": "eri",
+        "wCount":    510,
+        "top10words": "fond laimez ces mon mes perfide semble vous ame sans"
+      },
+      {
+        "source": "aga",
+        "target": "eur",
+        "wCount":    190,
+        "top10words": "eurybate quels appelez cedons cherchant craignent defendra dennui estelle formeraije"
+      },
+      {
+        "source": "cly",
+        "target": "eur",
+        "wCount":     64,
+        "top10words": "aches decue impie lier marrachant opprimee rompre separe trahissez mort"
+      },
+      {
+        "source": "iph",
+        "target": "eur",
+        "wCount":      4,
+        "top10words": "conduisez eurybate victime lautel abaissement abandonne abandonnee abandonner abimes abominable"
+      },
+      {
+        "source": "aga",
+        "target": "gar",
+        "wCount":      6,
+        "top10words": "gardes hola suivez reine moi abaissement abandonne abandonnee abandonner abimes"
+      },
+      {
+        "source": "ach",
+        "target": "iph",
+        "wCount":    755,
+        "top10words": "vous madame votre moi repos violer venger mon epoux cours"
+      },
+      {
+        "source": "aeg",
+        "target": "iph",
+        "wCount":      9,
+        "top10words": "passe questce madame sest donc quoi lui qui abaissement abandonne"
+      },
+      {
+        "source": "aga",
+        "target": "iph",
+        "wCount":    311,
+        "top10words": "ont vous bien fille rang quel arrivee assures assurez atteste"
+      },
+      {
+        "source": "arc",
+        "target": "iph",
+        "wCount":     15,
+        "top10words": "feignait tromper hymenee trompe comme encore roi meme camp cet"
+      },
+      {
+        "source": "cly",
+        "target": "iph",
+        "wCount":    207,
+        "top10words": "dessein venez retour veut affronts attendent commettre dement dernier distrait"
+      },
+      {
+        "source": "eri",
+        "target": "iph",
+        "wCount":    169,
+        "top10words": "comprendre doivent avertisse avide brule caressant disgr donnez epargnes essuyes"
+      },
+      {
+        "source": "iph",
+        "target": "iph",
+        "wCount":     33,
+        "top10words": "frissonner implore accueil crains soupconner coupable jignore justes malgre rigueur"
+      },
+      {
+        "source": "aga",
+        "target": "uly",
+        "wCount":    234,
+        "top10words": "destin nous accepter affreuse aisement approcher assieges ceint dempire ecarter"
+      },
+      {
+        "source": "cly",
+        "target": "uly",
+        "wCount":     31,
+        "top10words": "bienfaits eperdue lapprendre quel demeure encens miracle payer recompenser prince"
+      },
+      {
+        "source": "uly",
+        "target": "uly",
+        "wCount":      4,
+        "top10words": "questce jentends dieux que abaissement abandonne abandonnee abandonner abimes abominable"
+      }
+    ]
+  },
+  "macbeth": {
+    "meta": {
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "date":   1606
+    },
+    "nodes": [
+      {
+        "char": "ang",
+        "name": " Angus",
+        "gender":      2,
+        "wCount":    113,
+        "top10words": "loose feele onely capitall combind commands countreyes dwarfish faithbreach giants",
+        "betw":      0,
+        "deg":     13,
+        "str":    530,
+        "class":      4
+      },
+      {
+        "char": "ap1",
+        "name": " First Apparition",
+        "gender": null,
+        "wCount":     10,
+        "top10words": "beware dismisse macbeth fife enough macduffe thane abhorred abide abiure",
+        "betw":      0,
+        "deg":      2,
+        "str":     32,
+        "class":      1
+      },
+      {
+        "char": "ap2",
+        "name": " Second Apparition",
+        "gender": null,
+        "wCount":     17,
+        "top10words": "resolute macbeth laugh harme scorne bold borne woman powre none",
+        "betw":      0,
+        "deg":      2,
+        "str":     23,
+        "class":      1
+      },
+      {
+        "char": "ap3",
+        "name": " Third Apparition",
+        "gender": null,
+        "wCount":     27,
+        "top10words": "byrnam chafes conspirers dunsmane metled vanquishd vntill frets hill lyon",
+        "betw":      0,
+        "deg":      1,
+        "str":     27,
+        "class":      8
+      },
+      {
+        "char": "att",
+        "name": " Attendants",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      2,
+        "str":    109,
+        "class":      1
+      },
+      {
+        "char": "ban",
+        "name": " Banquo",
+        "gender":      2,
+        "wCount":    694,
+        "top10words": "question exposure frailties piece pretence treasonous vndivulgd hid mallice naked",
+        "betw":     77,
+        "deg":     26,
+        "str":   1443,
+        "class":      1
+      },
+      {
+        "char": "cap",
+        "name": " Captain",
+        "gender":      2,
+        "wCount":    183,
+        "top10words": "kernes marke till whence fortune hee assault bathe brandisht cannons",
+        "betw":      0,
+        "deg":      3,
+        "str":    215,
+        "class":      1
+      },
+      {
+        "char": "cat",
+        "name": " Cathnes",
+        "gender":      2,
+        "wCount":     53,
+        "top10words": "belt brother buckle distemperd fortifies medcine rule donalbane fury hate",
+        "betw":      0,
+        "deg":      9,
+        "str":    371,
+        "class":      4
+      },
+      {
+        "char": "do1",
+        "name": " Doctor",
+        "gender":      2,
+        "wCount":     29,
+        "top10words": "amend assay conuinces crew malady presently sanctity wretched cure soules",
+        "betw":      0,
+        "deg":      2,
+        "str":     40,
+        "class":      3
+      },
+      {
+        "char": "do2",
+        "name": " Doctor",
+        "gender":      2,
+        "wCount":    222,
+        "top10words": "she her sleep vnnaturall you knowne too keepe actuall agitation",
+        "betw":     77,
+        "deg":      6,
+        "str":    481,
+        "class":      5
+      },
+      {
+        "char": "don",
+        "name": " Donalbaine",
+        "gender":      2,
+        "wCount":     44,
+        "top10words": "amisse augure brewd hole neerer rush seperated hid ireland mens",
+        "betw":      0,
+        "deg":      9,
+        "str":    260,
+        "class":      3
+      },
+      {
+        "char": "duf",
+        "name": " Macduff",
+        "gender":      2,
+        "wCount":    951,
+        "top10words": "horror awake scotland thee thou see thy new murther pretty",
+        "betw":    473,
+        "deg":     23,
+        "str":   2678,
+        "class":      3
+      },
+      {
+        "char": "dun",
+        "name": " Duncan",
+        "gender":      2,
+        "wCount":    536,
+        "top10words": "deseruers eldest establish estate inuest nearest noblenesse places signes vnaccompanied",
+        "betw":     77,
+        "deg":     18,
+        "str":   1113,
+        "class":      1
+      },
+      {
+        "char": "fle",
+        "name": " Fleance",
+        "gender":      2,
+        "wCount":     10,
+        "top10words": "later taket clock moone heard downe sir tis haue not",
+        "betw":      0,
+        "deg":      2,
+        "str":     69,
+        "class":      1
+      },
+      {
+        "char": "gen",
+        "name": " Gentlewoman",
+        "gender":      1,
+        "wCount":    138,
+        "top10words": "her she fast knowne has bed accustomd action afterwards closset",
+        "betw":      0,
+        "deg":      2,
+        "str":    322,
+        "class":      5
+      },
+      {
+        "char": "hec",
+        "name": " Hecate",
+        "gender":      1,
+        "wCount":    186,
+        "top10words": "calld charmes you beare ere acheron affaires amends artificiall beldams",
+        "betw":      0,
+        "deg":      4,
+        "str":    565,
+        "class":      6
+      },
+      {
+        "char": "lad",
+        "name": " Lady Macbeth",
+        "gender":      1,
+        "wCount":   1452,
+        "top10words": "you wouldst your thou goodnight had natures haue what groomes",
+        "betw":      0,
+        "deg":     16,
+        "str":   2978,
+        "class":      1
+      },
+      {
+        "char": "len",
+        "name": " Lenox",
+        "gender":      2,
+        "wCount":    387,
+        "top10words": "fleans lord please were kill england was borne late good",
+        "betw":    113,
+        "deg":     22,
+        "str":   1216,
+        "class":      4
+      },
+      {
+        "char": "lor",
+        "name": " Lords",
+        "gender":      3,
+        "wCount":    121,
+        "top10words": "free attempt ayd banquets birth clogges clowdy edward exasperate faithfull",
+        "betw":      0,
+        "deg":      6,
+        "str":    528,
+        "class":      4
+      },
+      {
+        "char": "mac",
+        "name": " Macbeth",
+        "gender":      2,
+        "wCount":   4817,
+        "top10words": "you till thou them our this banquo that time will",
+        "betw":   1218,
+        "deg":     49,
+        "str":   8236,
+        "class":      1
+      },
+      {
+        "char": "mal",
+        "name": " Malcolm",
+        "gender":      2,
+        "wCount":   1653,
+        "top10words": "grace seuerall time butcher calling earles exild expence fiendlike henceforth",
+        "betw":    461,
+        "deg":     27,
+        "str":   2700,
+        "class":      3
+      },
+      {
+        "char": "mcs",
+        "name": " Macduff's Son",
+        "gender":      2,
+        "wCount":    100,
+        "top10words": "mother swearers birds traitor father hang fools liars lyars quickely",
+        "betw":     39,
+        "deg":      6,
+        "str":    201,
+        "class":      2
+      },
+      {
+        "char": "men",
+        "name": " Menteth",
+        "gender":      2,
+        "wCount":     51,
+        "top10words": "alarme bleeding condemne excite grim malcolm mortified pesterd reuenges senses",
+        "betw":      0,
+        "deg":     11,
+        "str":    359,
+        "class":      4
+      },
+      {
+        "char": "mes",
+        "name": " Messengers",
+        "gender":      3,
+        "wCount":    119,
+        "top10words": "you brings cruelty dame endure fright groue homely informd mouing",
+        "betw":      0,
+        "deg":      5,
+        "str":    204,
+        "class":      1
+      },
+      {
+        "char": "mu1",
+        "name": " First Murderer",
+        "gender":      2,
+        "wCount":    130,
+        "top10words": "stand wast horses toot lord lets apace approches bides disasters",
+        "betw":     75,
+        "deg":      7,
+        "str":    645,
+        "class":      1
+      },
+      {
+        "char": "mu2",
+        "name": " Second Murderer",
+        "gender":      2,
+        "wCount":     85,
+        "top10words": "affaire alreadie expectation light halfe court note world best hee",
+        "betw":      0,
+        "deg":      6,
+        "str":    494,
+        "class":      1
+      },
+      {
+        "char": "mu3",
+        "name": " Third Murderer",
+        "gender":      2,
+        "wCount":     65,
+        "top10words": "vsually mile pallace gate hearke horses strike walke does fled",
+        "betw":      0,
+        "deg":      4,
+        "str":    133,
+        "class":      1
+      },
+      {
+        "char": "mur",
+        "name": " Murderers",
+        "gender":      3,
+        "wCount":     11,
+        "top10words": "egge fry treachery hes traitor husband yong where what your",
+        "betw":      0,
+        "deg":      4,
+        "str":     25,
+        "class":      2
+      },
+      {
+        "char": "old",
+        "name": " Old Man",
+        "gender":      2,
+        "wCount":     62,
+        "top10words": "benyson faulcon hawkt knowings mowsing pride towring trifled tuesday volume",
+        "betw":      0,
+        "deg":      2,
+        "str":    143,
+        "class":      3
+      },
+      {
+        "char": "one",
+        "name": " First Witch",
+        "gender":      1,
+        "wCount":    606,
+        "top10words": "double mouncht nine thrice bubble ile burne cauldron fire trouble",
+        "betw":    149,
+        "deg":     10,
+        "str":   1337,
+        "class":      6
+      },
+      {
+        "char": "por",
+        "name": " Porter",
+        "gender":      2,
+        "wCount":    224,
+        "top10words": "knock heres equiuocator faith him whos lecherie porter prouokes taylor",
+        "betw":      0,
+        "deg":      4,
+        "str":    385,
+        "class":      7
+      },
+      {
+        "char": "ros",
+        "name": " Rosse",
+        "gender":      2,
+        "wCount":    834,
+        "top10words": "where gainst would nothing when your alas violent his before",
+        "betw":    337,
+        "deg":     19,
+        "str":   1734,
+        "class":      3
+      },
+      {
+        "char": "ser",
+        "name": " Servants",
+        "gender":      3,
+        "wCount":     80,
+        "top10words": "seyton madame accompany curses diseate faine falne force leafe lowd",
+        "betw":      0,
+        "deg":      4,
+        "str":    171,
+        "class":      1
+      },
+      {
+        "char": "ses",
+        "name": " Seyward's Son",
+        "gender":      2,
+        "wCount":     34,
+        "top10words": "abhorred callst hatefull hoter lyest proue thou diuell speakst name",
+        "betw":      0,
+        "deg":      5,
+        "str":    125,
+        "class":      3
+      },
+      {
+        "char": "sew",
+        "name": " Seyward",
+        "gender":      2,
+        "wCount":    210,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure warre owe relate stroakes",
+        "betw":      0,
+        "deg":     13,
+        "str":    556,
+        "class":      3
+      },
+      {
+        "char": "sey",
+        "name": " Seyton",
+        "gender":      2,
+        "wCount":     21,
+        "top10words": "needed reported lord confirmd queene women pleasure cry gracious whats",
+        "betw":      0,
+        "deg":      2,
+        "str":    241,
+        "class":      1
+      },
+      {
+        "char": "so1",
+        "name": " Malcolm's Soldiers",
+        "gender":      3,
+        "wCount":      5,
+        "top10words": "scotland haile done king shall abhorred abide abiure aboue abound",
+        "betw":      0,
+        "deg":      2,
+        "str":    141,
+        "class":      3
+      },
+      {
+        "char": "so2",
+        "name": " Macbeth's Soldiers",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":     88,
+        "class":      1
+      },
+      {
+        "char": "tha",
+        "name": " Thanes",
+        "gender":      3,
+        "wCount":      3,
+        "top10words": "scotland haile king abhorred abide abiure aboue abound about abroad",
+        "betw":      0,
+        "deg":      2,
+        "str":     93,
+        "class":      3
+      },
+      {
+        "char": "thr",
+        "name": " Third Witch",
+        "gender":      1,
+        "wCount":    321,
+        "top10words": "double bubble thrice drumme burne cauldron fire trouble toyle sea",
+        "betw":      0,
+        "deg":      9,
+        "str":   1144,
+        "class":      6
+      },
+      {
+        "char": "two",
+        "name": " Second Witch",
+        "gender":      1,
+        "wCount":    304,
+        "top10words": "double bubble thrice cauldron trouble burne fire boyle charme toyle",
+        "betw":      0,
+        "deg":      9,
+        "str":   1139,
+        "class":      6
+      },
+      {
+        "char": "wif",
+        "name": " Macduff's Wife",
+        "gender":      1,
+        "wCount":    207,
+        "top10words": "harme wilt wit poore thou flight why flye wisedome how",
+        "betw":    151,
+        "deg":      9,
+        "str":    498,
+        "class":      2
+      }
+    ],
+    "links": [
+      {
+        "source": "ban",
+        "target": "ang",
+        "wCount":     26,
+        "top10words": "aid cousins garments mould partners cleaue rapt honors vse word"
+      },
+      {
+        "source": "cat",
+        "target": "ang",
+        "wCount":     53,
+        "top10words": "belt brother buckle distemperd fortifies medcine rule donalbane fury lesser"
+      },
+      {
+        "source": "duf",
+        "target": "ang",
+        "wCount":     10,
+        "top10words": "censures euent industrious souldiership iust attend true put let our"
+      },
+      {
+        "source": "dun",
+        "target": "ang",
+        "wCount":     39,
+        "top10words": "deseruers eldest establish estate inuest nearest noblenesse places signes vnaccompanied"
+      },
+      {
+        "source": "len",
+        "target": "ang",
+        "wCount":     33,
+        "top10words": "birnan dew gentry seywards vnruffe weeds youths drowne flower needes"
+      },
+      {
+        "source": "mac",
+        "target": "ang",
+        "wCount":     38,
+        "top10words": "paines borrowed dresse registred dull fauour lease reade robes turne"
+      },
+      {
+        "source": "mal",
+        "target": "ang",
+        "wCount":     38,
+        "top10words": "giuen hope absent aduantage chambers constrained cosins maine reuolt serue"
+      },
+      {
+        "source": "men",
+        "target": "ang",
+        "wCount":     47,
+        "top10words": "dos alarme bleeding condemne excite grim malcolm mortified pesterd reuenges"
+      },
+      {
+        "source": "sew",
+        "target": "ang",
+        "wCount":     35,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure relate stroakes warre what"
+      },
+      {
+        "source": "mac",
+        "target": "ap1",
+        "wCount":     22,
+        "top10words": "thou aright harpd caution vnknowne thanks word hast power tell"
+      },
+      {
+        "source": "mac",
+        "target": "ap2",
+        "wCount":      6,
+        "top10words": "ild eares three heare had thee abhorred abide abiure aboue"
+      },
+      {
+        "source": "dun",
+        "target": "att",
+        "wCount":     43,
+        "top10words": "surgeons deseruers eldest establish estate inuest nearest noblenesse places signes"
+      },
+      {
+        "source": "mac",
+        "target": "att",
+        "wCount":     66,
+        "top10words": "woman feare borne consequences epicures pronouncd reports sagge taint fly"
+      },
+      {
+        "source": "ban",
+        "target": "ban",
+        "wCount":     67,
+        "top10words": "fowly hush oracles playdst posterity saide verities deuill hoa promisd"
+      },
+      {
+        "source": "don",
+        "target": "ban",
+        "wCount":      1,
+        "top10words": "all abhorred abide abiure aboue abound about abroad absence absent"
+      },
+      {
+        "source": "duf",
+        "target": "ban",
+        "wCount":      7,
+        "top10words": "masters banquo murtherd royall doe our abhorred abide abiure aboue"
+      },
+      {
+        "source": "dun",
+        "target": "ban",
+        "wCount":    105,
+        "top10words": "lesse banquet commendations drops enfold fed fulnesse honord ioyes nimbly"
+      },
+      {
+        "source": "fle",
+        "target": "ban",
+        "wCount":     10,
+        "top10words": "later taket clock moone heard downe sir tis haue not"
+      },
+      {
+        "source": "len",
+        "target": "ban",
+        "wCount":      1,
+        "top10words": "all abhorred abide abiure aboue abound about abroad absence absent"
+      },
+      {
+        "source": "mac",
+        "target": "ban",
+        "wCount":    266,
+        "top10words": "you ride free when children kings your shall morrow wrought"
+      },
+      {
+        "source": "mal",
+        "target": "ban",
+        "wCount":      1,
+        "top10words": "all abhorred abide abiure aboue abound about abroad absence absent"
+      },
+      {
+        "source": "mu1",
+        "target": "ban",
+        "wCount":      3,
+        "top10words": "downe let come abhorred abide abiure aboue abound about abroad"
+      },
+      {
+        "source": "one",
+        "target": "ban",
+        "wCount":      9,
+        "top10words": "greater hayle lesser macbeth haile banquo then all abhorred abide"
+      },
+      {
+        "source": "ros",
+        "target": "ban",
+        "wCount":      1,
+        "top10words": "all abhorred abide abiure aboue abound about abroad absence absent"
+      },
+      {
+        "source": "thr",
+        "target": "ban",
+        "wCount":     12,
+        "top10words": "hayle thou shalt kings get haile none though banquo macbeth"
+      },
+      {
+        "source": "two",
+        "target": "ban",
+        "wCount":      6,
+        "top10words": "happyer happy hayle much yet not abhorred abide abiure aboue"
+      },
+      {
+        "source": "dun",
+        "target": "cap",
+        "wCount":     22,
+        "top10words": "banquoh captaines dismayd smack cousin wounds become gentleman thy valiant"
+      },
+      {
+        "source": "mal",
+        "target": "cap",
+        "wCount":     10,
+        "top10words": "broyle braue knowledge didst friend leaue haile king thou say"
+      },
+      {
+        "source": "ang",
+        "target": "cat",
+        "wCount":     49,
+        "top10words": "feele dos now commands dwarfish faithbreach giants minutely reuolts robe"
+      },
+      {
+        "source": "duf",
+        "target": "cat",
+        "wCount":     10,
+        "top10words": "censures euent industrious souldiership iust attend true put let our"
+      },
+      {
+        "source": "len",
+        "target": "cat",
+        "wCount":     33,
+        "top10words": "birnan dew gentry seywards vnruffe weeds youths drowne flower needes"
+      },
+      {
+        "source": "mal",
+        "target": "cat",
+        "wCount":     38,
+        "top10words": "giuen hope absent aduantage chambers constrained cosins maine reuolt serue"
+      },
+      {
+        "source": "men",
+        "target": "cat",
+        "wCount":     47,
+        "top10words": "dos alarme bleeding condemne excite grim malcolm mortified pesterd reuenges"
+      },
+      {
+        "source": "sew",
+        "target": "cat",
+        "wCount":     35,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure relate stroakes warre what"
+      },
+      {
+        "source": "mal",
+        "target": "do1",
+        "wCount":     11,
+        "top10words": "doctor thanke forth comes anon pray king you more well"
+      },
+      {
+        "source": "do2",
+        "target": "do2",
+        "wCount":     11,
+        "top10words": "hardly profit cleere draw dunsinane away heere againe were should"
+      },
+      {
+        "source": "gen",
+        "target": "do2",
+        "wCount":    138,
+        "top10words": "her she fast has knowne bed accustomd action afterwards closset"
+      },
+      {
+        "source": "mac",
+        "target": "do2",
+        "wCount":    110,
+        "top10words": "doctor applaud antidote armour bane cleanse cyme diseasd dogs drugge"
+      },
+      {
+        "source": "ban",
+        "target": "don",
+        "wCount":     35,
+        "top10words": "exposure frailties piece pretence treasonous vndivulgd hid mallice naked scruples"
+      },
+      {
+        "source": "duf",
+        "target": "don",
+        "wCount":      4,
+        "top10words": "fathers murtherd royall your abhorred abide abiure aboue abound about"
+      },
+      {
+        "source": "dun",
+        "target": "don",
+        "wCount":     39,
+        "top10words": "deseruers eldest establish estate inuest nearest noblenesse places signes vnaccompanied"
+      },
+      {
+        "source": "len",
+        "target": "don",
+        "wCount":     33,
+        "top10words": "were badgd distracted stard vnwipd pillowes trusted their dont found"
+      },
+      {
+        "source": "mac",
+        "target": "don",
+        "wCount":     31,
+        "top10words": "stopt fountaine knowt source furie repent spring kill doe briefely"
+      },
+      {
+        "source": "mal",
+        "target": "don",
+        "wCount":     74,
+        "top10words": "sorrow argument auoid ayme clayme consort daintie mercie motion murtherous"
+      },
+      {
+        "source": "ban",
+        "target": "duf",
+        "wCount":     47,
+        "top10words": "contradict duff deare prythee exposure frailties piece pretence treasonous vndivulgd"
+      },
+      {
+        "source": "duf",
+        "target": "duf",
+        "wCount":     96,
+        "top10words": "bell ring thou malcolme beest bruited childrens clatter countenance counterfeit"
+      },
+      {
+        "source": "lad",
+        "target": "duf",
+        "wCount":     17,
+        "top10words": "house hideous parley sleepers trumpet woe speake alas businesse calls"
+      },
+      {
+        "source": "len",
+        "target": "duf",
+        "wCount":      6,
+        "top10words": "maiestie matter meane whats you his abhorred abide abiure aboue"
+      },
+      {
+        "source": "mac",
+        "target": "duf",
+        "wCount":    254,
+        "top10words": "labour yeeld lay loue woman life borne had with before"
+      },
+      {
+        "source": "mal",
+        "target": "duf",
+        "wCount":    880,
+        "top10words": "this griefe you your grace him what shall poore but"
+      },
+      {
+        "source": "por",
+        "target": "duf",
+        "wCount":     92,
+        "top10words": "him sir lecherie prouokes takes makes drinke too lye sleepe"
+      },
+      {
+        "source": "ros",
+        "target": "duf",
+        "wCount":    260,
+        "top10words": "could where alas they were wife liues dispise heauiest manner"
+      },
+      {
+        "source": "sew",
+        "target": "duf",
+        "wCount":     35,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure relate stroakes warre what"
+      },
+      {
+        "source": "ban",
+        "target": "dun",
+        "wCount":     46,
+        "top10words": "approue barlet buttrice coigne cradle delicate frieze haruest iutty loued"
+      },
+      {
+        "source": "cap",
+        "target": "dun",
+        "wCount":    183,
+        "top10words": "kernes marke fortune whence hee assault bathe brandisht cannons carud"
+      },
+      {
+        "source": "dun",
+        "target": "dun",
+        "wCount":      7,
+        "top10words": "wonne hath lost noble macbeth what abhorred abide abiure aboue"
+      },
+      {
+        "source": "lad",
+        "target": "dun",
+        "wCount":     55,
+        "top10words": "theirs your audit compt dignities ermites heapd loades twice wherewith"
+      },
+      {
+        "source": "mac",
+        "target": "dun",
+        "wCount":     54,
+        "top10words": "doing duties herbenger humbly labor loyaltie payes ioyfull vsd your"
+      },
+      {
+        "source": "mal",
+        "target": "dun",
+        "wCount":     71,
+        "top10words": "hee back captiuitie carelesse die frankly hardie implord leauing repentance"
+      },
+      {
+        "source": "ros",
+        "target": "dun",
+        "wCount":     83,
+        "top10words": "arme point king assisted bellonas bridegroome buriall colmes composition conclude"
+      },
+      {
+        "source": "ban",
+        "target": "fle",
+        "wCount":     59,
+        "top10words": "flye goes sword take candles husbandry lead powers rayne restraine"
+      },
+      {
+        "source": "do2",
+        "target": "gen",
+        "wCount":    184,
+        "top10words": "she her sleep vnnaturall you knowne too haue eyes their"
+      },
+      {
+        "source": "one",
+        "target": "hec",
+        "wCount":      7,
+        "top10words": "angerly hecat why looke how now you abhorred abide abiure"
+      },
+      {
+        "source": "duf",
+        "target": "lad",
+        "wCount":     16,
+        "top10words": "repetition womans eare gentle murther fell lady heare can speake"
+      },
+      {
+        "source": "dun",
+        "target": "lad",
+        "wCount":     75,
+        "top10words": "loue thanke hostesse trouble your conduct courst followes godeyld herein"
+      },
+      {
+        "source": "lad",
+        "target": "lad",
+        "wCount":    474,
+        "top10words": "wouldst thou bed come thee othat spot vndone haue doe"
+      },
+      {
+        "source": "len",
+        "target": "lad",
+        "wCount":      7,
+        "top10words": "maiesty health better attend night good his abhorred abide abiure"
+      },
+      {
+        "source": "mac",
+        "target": "lad",
+        "wCount":    863,
+        "top10words": "sleepe they amen blood ere more haue cryd prythee thou"
+      },
+      {
+        "source": "mes",
+        "target": "lad",
+        "wCount":     21,
+        "top10words": "brings informd tending thourt wert preparation newes mad master him"
+      },
+      {
+        "source": "ser",
+        "target": "lad",
+        "wCount":      7,
+        "top10words": "madame returnes againe night will but abhorred abide abiure aboue"
+      },
+      {
+        "source": "ang",
+        "target": "len",
+        "wCount":     49,
+        "top10words": "feele dos now commands dwarfish faithbreach giants minutely reuolts robe"
+      },
+      {
+        "source": "ban",
+        "target": "len",
+        "wCount":     35,
+        "top10words": "exposure frailties piece pretence treasonous vndivulgd hid mallice naked scruples"
+      },
+      {
+        "source": "cat",
+        "target": "len",
+        "wCount":     53,
+        "top10words": "belt brother buckle distemperd fortifies medcine rule donalbane fury lesser"
+      },
+      {
+        "source": "duf",
+        "target": "len",
+        "wCount":     57,
+        "top10words": "horror awake anoynted approch awakd building conceiue gorgon lords masterpeece"
+      },
+      {
+        "source": "dun",
+        "target": "len",
+        "wCount":     39,
+        "top10words": "deseruers eldest establish estate inuest nearest noblenesse places signes vnaccompanied"
+      },
+      {
+        "source": "lad",
+        "target": "len",
+        "wCount":     63,
+        "top10words": "goodnight once extend momentary offend peeres spoyles youth custome feed"
+      },
+      {
+        "source": "len",
+        "target": "len",
+        "wCount":     13,
+        "top10words": "haste lookes eyes seemes through strange things looke speake should"
+      },
+      {
+        "source": "lor",
+        "target": "len",
+        "wCount":    115,
+        "top10words": "free attempt ayd banquets birth clogges clowdy edward exasperate faithfull"
+      },
+      {
+        "source": "mac",
+        "target": "len",
+        "wCount":    253,
+        "top10words": "sit table came both drinke health wine all had welcome"
+      },
+      {
+        "source": "men",
+        "target": "len",
+        "wCount":     47,
+        "top10words": "dos alarme bleeding condemne excite grim malcolm mortified pesterd reuenges"
+      },
+      {
+        "source": "ros",
+        "target": "len",
+        "wCount":      6,
+        "top10words": "gentlemen rise highnesse well his not abhorred abide abiure aboue"
+      },
+      {
+        "source": "lad",
+        "target": "lor",
+        "wCount":     63,
+        "top10words": "goodnight once extend momentary offend peeres spoyles youth custome feed"
+      },
+      {
+        "source": "len",
+        "target": "lor",
+        "wCount":    193,
+        "top10words": "fleans kill late gracious please was too father vnder borne"
+      },
+      {
+        "source": "mac",
+        "target": "lor",
+        "wCount":    145,
+        "top10words": "sit table drinke health welcome heere till banquo both downe"
+      },
+      {
+        "source": "ros",
+        "target": "lor",
+        "wCount":      6,
+        "top10words": "gentlemen rise highnesse well his not abhorred abide abiure aboue"
+      },
+      {
+        "source": "ang",
+        "target": "mac",
+        "wCount":     64,
+        "top10words": "thee capitall combind countreyes harrold hidden hoth labourd lyne ouerthrowne"
+      },
+      {
+        "source": "ap1",
+        "target": "mac",
+        "wCount":     10,
+        "top10words": "beware macbeth dismisse fife macduffe enough thane abhorred abide abiure"
+      },
+      {
+        "source": "ap2",
+        "target": "mac",
+        "wCount":     17,
+        "top10words": "macbeth resolute harme bold laugh woman scorne powre borne none"
+      },
+      {
+        "source": "ap3",
+        "target": "mac",
+        "wCount":     27,
+        "top10words": "byrnam chafes conspirers dunsmane metled vanquishd vntill frets hill lyon"
+      },
+      {
+        "source": "ban",
+        "target": "mac",
+        "wCount":    258,
+        "top10words": "lord leysure winne farre whos earth sir most doe your"
+      },
+      {
+        "source": "do2",
+        "target": "mac",
+        "wCount":     27,
+        "top10words": "sicke therein thickecomming lord her fancies minister patient preparation troubled"
+      },
+      {
+        "source": "don",
+        "target": "mac",
+        "wCount":      4,
+        "top10words": "amisse contented well what abhorred abide abiure aboue abound about"
+      },
+      {
+        "source": "duf",
+        "target": "mac",
+        "wCount":    146,
+        "top10words": "horror thee awake turne bloodier gaze hellhound limitted monsters mothers"
+      },
+      {
+        "source": "dun",
+        "target": "mac",
+        "wCount":    105,
+        "top10words": "thee binde envernes growing hadst ingratitude ouertake payment proportion recompence"
+      },
+      {
+        "source": "lad",
+        "target": "mac",
+        "wCount":    730,
+        "top10words": "you your shame done this why haue not looke guilt"
+      },
+      {
+        "source": "len",
+        "target": "mac",
+        "wCount":    101,
+        "top10words": "lord good highnesse accents blowne chimneys clamord combustion confusd dyre"
+      },
+      {
+        "source": "lor",
+        "target": "mac",
+        "wCount":      6,
+        "top10words": "pledge maiesty duties thankes your our abhorred abide abiure aboue"
+      },
+      {
+        "source": "mac",
+        "target": "mac",
+        "wCount":   1030,
+        "top10words": "thou see his eyes horrible line mine deed thee this"
+      },
+      {
+        "source": "mal",
+        "target": "mac",
+        "wCount":      3,
+        "top10words": "contented whom well abhorred abide abiure aboue abound about abroad"
+      },
+      {
+        "source": "mes",
+        "target": "mac",
+        "wCount":     43,
+        "top10words": "endure groue mouing wrath doot hill began ift lookd mile"
+      },
+      {
+        "source": "mu1",
+        "target": "mac",
+        "wCount":     64,
+        "top10words": "lord bides disasters ditch mend rid scapd trenched tuggd banquos"
+      },
+      {
+        "source": "mu2",
+        "target": "mac",
+        "wCount":     30,
+        "top10words": "lord world blowes buffets incensd recklesse vile resolud spight liege"
+      },
+      {
+        "source": "one",
+        "target": "mac",
+        "wCount":    105,
+        "top10words": "haile shew macbeth amazedly antique commanded delights kindly mouthes nought"
+      },
+      {
+        "source": "ros",
+        "target": "mac",
+        "wCount":    110,
+        "top10words": "post prayses thy thine afeard company happily images layes personall"
+      },
+      {
+        "source": "ser",
+        "target": "mac",
+        "wCount":     73,
+        "top10words": "seyton accompany curses diseate faine falne force leafe lowd mouthhonor"
+      },
+      {
+        "source": "ses",
+        "target": "mac",
+        "wCount":     34,
+        "top10words": "thou abhorred callst hatefull hoter lyest proue speakst name diuell"
+      },
+      {
+        "source": "sey",
+        "target": "mac",
+        "wCount":     21,
+        "top10words": "lord needed reported confirmd gracious pleasure queene women cry whats"
+      },
+      {
+        "source": "thr",
+        "target": "mac",
+        "wCount":     35,
+        "top10words": "haile shew depart listen shadowes greeue seeke shalt toot macbeth"
+      },
+      {
+        "source": "two",
+        "target": "mac",
+        "wCount":     30,
+        "top10words": "haile demand shew depart listen shadowes greeue seeke toot hart"
+      },
+      {
+        "source": "ban",
+        "target": "mal",
+        "wCount":     35,
+        "top10words": "exposure frailties piece pretence treasonous vndivulgd hid mallice naked scruples"
+      },
+      {
+        "source": "do1",
+        "target": "mal",
+        "wCount":     29,
+        "top10words": "amend assay conuinces crew malady presently sanctity wretched cure touch"
+      },
+      {
+        "source": "don",
+        "target": "mal",
+        "wCount":     39,
+        "top10words": "augure brewd hole neerer rush seperated ireland safer seize smiles"
+      },
+      {
+        "source": "duf",
+        "target": "mal",
+        "wCount":    437,
+        "top10words": "scotland thy thee thou heauen new euils front bleed pretty"
+      },
+      {
+        "source": "dun",
+        "target": "mal",
+        "wCount":     74,
+        "top10words": "built commission construction plight returnd seemeth whom absolute mindes execution"
+      },
+      {
+        "source": "len",
+        "target": "mal",
+        "wCount":     33,
+        "top10words": "were badgd distracted stard vnwipd pillowes trusted their dont found"
+      },
+      {
+        "source": "mac",
+        "target": "mal",
+        "wCount":     17,
+        "top10words": "furie repent kill briefely hall readinesse manly together lets meet"
+      },
+      {
+        "source": "men",
+        "target": "mal",
+        "wCount":      2,
+        "top10words": "doubt nothing abhorred abide abiure aboue abound about abroad absence"
+      },
+      {
+        "source": "ros",
+        "target": "mal",
+        "wCount":    143,
+        "top10words": "where scotland would ayre afoot age amen caps countrey create"
+      },
+      {
+        "source": "sew",
+        "target": "mal",
+        "wCount":    116,
+        "top10words": "tyrants warre beaten befort brauely cheapely confident enter gently indure"
+      },
+      {
+        "source": "so1",
+        "target": "mal",
+        "wCount":      5,
+        "top10words": "haile scotland done king shall abhorred abide abiure aboue abound"
+      },
+      {
+        "source": "tha",
+        "target": "mal",
+        "wCount":      3,
+        "top10words": "haile scotland king abhorred abide abiure aboue abound about abroad"
+      },
+      {
+        "source": "mcs",
+        "target": "mcs",
+        "wCount":      7,
+        "top10words": "run killd mother away has pray you abhorred abide abiure"
+      },
+      {
+        "source": "mur",
+        "target": "mcs",
+        "wCount":      6,
+        "top10words": "egge fry treachery yong what you abhorred abide abiure aboue"
+      },
+      {
+        "source": "wif",
+        "target": "mcs",
+        "wCount":     88,
+        "top10words": "wilt wit poore how thou why father one buy flyes"
+      },
+      {
+        "source": "ang",
+        "target": "men",
+        "wCount":     49,
+        "top10words": "feele dos now commands dwarfish faithbreach giants minutely reuolts robe"
+      },
+      {
+        "source": "cat",
+        "target": "men",
+        "wCount":     53,
+        "top10words": "belt brother buckle distemperd fortifies medcine rule donalbane fury lesser"
+      },
+      {
+        "source": "duf",
+        "target": "men",
+        "wCount":     10,
+        "top10words": "censures euent industrious souldiership iust attend true put let our"
+      },
+      {
+        "source": "len",
+        "target": "men",
+        "wCount":     33,
+        "top10words": "birnan dew gentry seywards vnruffe weeds youths drowne flower needes"
+      },
+      {
+        "source": "mal",
+        "target": "men",
+        "wCount":     38,
+        "top10words": "giuen hope absent aduantage chambers constrained cosins maine reuolt serue"
+      },
+      {
+        "source": "sew",
+        "target": "men",
+        "wCount":     31,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure relate stroakes warre due"
+      },
+      {
+        "source": "lad",
+        "target": "mes",
+        "wCount":     27,
+        "top10words": "scarcely speed tidings message fellowes had breath please almost comming"
+      },
+      {
+        "source": "mac",
+        "target": "mes",
+        "wCount":     58,
+        "top10words": "thou dunsinane thy comst fhlse lyar next resolution thequiuocation wood"
+      },
+      {
+        "source": "mac",
+        "target": "mu1",
+        "wCount":    448,
+        "top10words": "you perfect selues your for whose finde past banquo nature"
+      },
+      {
+        "source": "mu2",
+        "target": "mu1",
+        "wCount":     34,
+        "top10words": "light deliuers mistrust affaire alreadie direction expectation offices needes court"
+      },
+      {
+        "source": "mu3",
+        "target": "mu1",
+        "wCount":     33,
+        "top10words": "vsually mile gate pallace walke strike horses toth hearke hee"
+      },
+      {
+        "source": "mac",
+        "target": "mu2",
+        "wCount":    361,
+        "top10words": "you your whose finde past perfect file selues his enemie"
+      },
+      {
+        "source": "mu1",
+        "target": "mu2",
+        "wCount":     16,
+        "top10words": "toot wast horses away lets stand about goe much way"
+      },
+      {
+        "source": "mu3",
+        "target": "mu2",
+        "wCount":     32,
+        "top10words": "vsually mile gate pallace walke strike horses toth hearke hee"
+      },
+      {
+        "source": "mu1",
+        "target": "mu3",
+        "wCount":     47,
+        "top10words": "apace approches glimmers inne ioyne lated spurres streakes traueller west"
+      },
+      {
+        "source": "mu2",
+        "target": "mu3",
+        "wCount":     21,
+        "top10words": "light affaire alreadie expectation court halfe note hee best lost"
+      },
+      {
+        "source": "mcs",
+        "target": "mur",
+        "wCount":      5,
+        "top10words": "shaggeeard lyst villaine thou abhorred abide abiure aboue abound about"
+      },
+      {
+        "source": "wif",
+        "target": "mur",
+        "wCount":      9,
+        "top10words": "vnsanctified mayst finde place hope such thou where him abhorred"
+      },
+      {
+        "source": "ros",
+        "target": "old",
+        "wCount":     81,
+        "top10words": "father beauteous byth contending flong intombe lampe liuing mankinde minions"
+      },
+      {
+        "source": "ban",
+        "target": "one",
+        "wCount":     95,
+        "top10words": "you speake noble her are nor aught beards choppie fauors"
+      },
+      {
+        "source": "hec",
+        "target": "one",
+        "wCount":    186,
+        "top10words": "calld you beare charmes your for shall ere euery death"
+      },
+      {
+        "source": "mac",
+        "target": "one",
+        "wCount":    173,
+        "top10words": "though you tell heads this cawdor answer how issue what"
+      },
+      {
+        "source": "thr",
+        "target": "one",
+        "wCount":    139,
+        "top10words": "double bubble thrice fire trouble burne cauldron drumme toyle sea"
+      },
+      {
+        "source": "two",
+        "target": "one",
+        "wCount":    138,
+        "top10words": "double bubble thrice trouble cauldron fire burne boyle charme toyle"
+      },
+      {
+        "source": "duf",
+        "target": "por",
+        "wCount":     29,
+        "top10words": "late drinke lye especially prouoke beleeue gaue stirring went bed"
+      },
+      {
+        "source": "por",
+        "target": "por",
+        "wCount":    132,
+        "top10words": "knock heres whos porter taylor equiuocator faith hell come could"
+      },
+      {
+        "source": "ban",
+        "target": "ros",
+        "wCount":     61,
+        "top10words": "aid cousins garments mould partners looke cleaue rapt honors exposure"
+      },
+      {
+        "source": "duf",
+        "target": "ros",
+        "wCount":    149,
+        "top10words": "children too pretty wife batterd carried colmekill concerne cozen easier"
+      },
+      {
+        "source": "dun",
+        "target": "ros",
+        "wCount":     66,
+        "top10words": "camst deceiue happinesse interest thane bosome greet pronounce former title"
+      },
+      {
+        "source": "lad",
+        "target": "ros",
+        "wCount":     73,
+        "top10words": "goodnight worse enrages pray once him extend growes momentary offend"
+      },
+      {
+        "source": "mac",
+        "target": "ros",
+        "wCount":    228,
+        "top10words": "sit table paines drinke health wine full had welcome all"
+      },
+      {
+        "source": "mal",
+        "target": "ros",
+        "wCount":    157,
+        "top10words": "time whats friends grace arriud beet christendome griefe lent older"
+      },
+      {
+        "source": "old",
+        "target": "ros",
+        "wCount":     62,
+        "top10words": "benyson faulcon hawkt knowings mowsing pride towring trifled tuesday volume"
+      },
+      {
+        "source": "sew",
+        "target": "ros",
+        "wCount":     24,
+        "top10words": "fairer haires hurts knolld soldier gods had knell wish many"
+      },
+      {
+        "source": "wif",
+        "target": "ros",
+        "wCount":     74,
+        "top10words": "flight wisedome leaue actions diminitiue fatherd fatherlesse madnesse mansion nest"
+      },
+      {
+        "source": "lad",
+        "target": "ser",
+        "wCount":     13,
+        "top10words": "few leysure court gone attend words banquo king would say"
+      },
+      {
+        "source": "mac",
+        "target": "ser",
+        "wCount":     78,
+        "top10words": "soldiers thy face thou counsailers creamfacd damne geese gooselooke gotst"
+      },
+      {
+        "source": "duf",
+        "target": "ses",
+        "wCount":     10,
+        "top10words": "censures euent industrious souldiership iust attend true put let our"
+      },
+      {
+        "source": "mac",
+        "target": "ses",
+        "wCount":      8,
+        "top10words": "fearefull names thoult affraid heare nor macbeth more abhorred abide"
+      },
+      {
+        "source": "mal",
+        "target": "ses",
+        "wCount":     38,
+        "top10words": "giuen hope absent aduantage chambers constrained cosins maine reuolt serue"
+      },
+      {
+        "source": "sew",
+        "target": "ses",
+        "wCount":     35,
+        "top10words": "aduance approaches arbitrate decision speculatiue vnsure relate stroakes warre what"
+      },
+      {
+        "source": "duf",
+        "target": "sew",
+        "wCount":     10,
+        "top10words": "censures euent industrious souldiership iust attend true put let our"
+      },
+      {
+        "source": "mal",
+        "target": "sew",
+        "wCount":    182,
+        "top10words": "spend giuen safe noble sonne battell leade missing hope neere"
+      },
+      {
+        "source": "men",
+        "target": "sew",
+        "wCount":      2,
+        "top10words": "birnane wood abhorred abide abiure aboue abound about abroad absence"
+      },
+      {
+        "source": "ros",
+        "target": "sew",
+        "wCount":     43,
+        "top10words": "debt measurd prowesse son vnshrinking brought confirmd field fought front"
+      },
+      {
+        "source": "sew",
+        "target": "sew",
+        "wCount":      4,
+        "top10words": "wood before this what abhorred abide abiure aboue abound about"
+      },
+      {
+        "source": "mac",
+        "target": "sey",
+        "wCount":    220,
+        "top10words": "out armor morrow beard arme haue cry them hang were"
+      },
+      {
+        "source": "mal",
+        "target": "so1",
+        "wCount":    136,
+        "top10words": "beart bough clamorous discouery erre harbingers hew hoast speak thereby"
+      },
+      {
+        "source": "mac",
+        "target": "so2",
+        "wCount":     88,
+        "top10words": "beard arme them ague appeare auouches aweary backward darefull flying"
+      },
+      {
+        "source": "mal",
+        "target": "tha",
+        "wCount":     90,
+        "top10words": "grace time butcher calling earles exild expence fiendlike henceforth needfull"
+      },
+      {
+        "source": "ban",
+        "target": "thr",
+        "wCount":     95,
+        "top10words": "you speake noble her are nor aught beards choppie fauors"
+      },
+      {
+        "source": "hec",
+        "target": "thr",
+        "wCount":    186,
+        "top10words": "calld you beare charmes your for shall ere euery death"
+      },
+      {
+        "source": "mac",
+        "target": "thr",
+        "wCount":    173,
+        "top10words": "though you tell heads this cawdor answer how issue what"
+      },
+      {
+        "source": "one",
+        "target": "thr",
+        "wCount":    239,
+        "top10words": "double nine thrice mouncht bubble fire trouble ile burne cauldron"
+      },
+      {
+        "source": "two",
+        "target": "thr",
+        "wCount":    130,
+        "top10words": "double bubble thrice trouble cauldron fire burne boyle charme toyle"
+      },
+      {
+        "source": "ban",
+        "target": "two",
+        "wCount":     95,
+        "top10words": "you speake noble her are nor aught beards choppie fauors"
+      },
+      {
+        "source": "hec",
+        "target": "two",
+        "wCount":    186,
+        "top10words": "calld you beare charmes your for shall ere euery death"
+      },
+      {
+        "source": "mac",
+        "target": "two",
+        "wCount":    173,
+        "top10words": "though you tell heads this cawdor answer how issue what"
+      },
+      {
+        "source": "one",
+        "target": "two",
+        "wCount":    246,
+        "top10words": "double nine thrice mouncht bubble fire trouble ile burne cauldron"
+      },
+      {
+        "source": "thr",
+        "target": "two",
+        "wCount":    135,
+        "top10words": "double bubble thrice fire trouble burne cauldron drumme toyle sea"
+      },
+      {
+        "source": "mcs",
+        "target": "wif",
+        "wCount":     88,
+        "top10words": "mother swearers father birds traitor hang for fools liars lyars"
+      },
+      {
+        "source": "mes",
+        "target": "wif",
+        "wCount":     55,
+        "top10words": "you cruelty dame fright homely neerely nie preserue sauage thinkes"
+      },
+      {
+        "source": "mur",
+        "target": "wif",
+        "wCount":      5,
+        "top10words": "hes traitor husband where your abhorred abide abiure aboue abound"
+      },
+      {
+        "source": "ros",
+        "target": "wif",
+        "wCount":    107,
+        "top10words": "feare leaue take cease climbe cooz cosine deerest fits floate"
+      },
+      {
+        "source": "wif",
+        "target": "wif",
+        "wCount":     36,
+        "top10words": "harme accounted dangerous earthly laudable womanly defence folly sometime done"
+      }
+    ]
+  },
+  "orra": {
+    "meta": {
+      "title": "Orra",
+      "author": "Joanna Baillie",
+      "date":   1812
+    },
+    "nodes": [
+      {
+        "char": "ali",
+        "name": "Alice",
+        "gender":      1,
+        "wCount":    239,
+        "top10words": "joy cold ever appeard blithe bloom catch distressd fanciful follows",
+        "betw":      0,
+        "deg":     22,
+        "str":    644,
+        "class":      2
+      },
+      {
+        "char": "att",
+        "name": "Attendants",
+        "gender":      3,
+        "wCount":     89,
+        "top10words": "borne daggers deepest disappeard limed news poison rackd retains searchd",
+        "betw":      0,
+        "deg":     11,
+        "str":    226,
+        "class":      2
+      },
+      {
+        "char": "cat",
+        "name": "Cathrina",
+        "gender":      1,
+        "wCount":    814,
+        "top10words": "set story hide bed eve michaels run since ancestor clotted",
+        "betw":      0,
+        "deg":     10,
+        "str":   2177,
+        "class":      2
+      },
+      {
+        "char": "ele",
+        "name": "Eleanora",
+        "gender":      1,
+        "wCount":    367,
+        "top10words": "shriek alas depressd goest restored orra kindly entreat nay dismal",
+        "betw":     15,
+        "deg":     23,
+        "str":   1037,
+        "class":      2
+      },
+      {
+        "char": "fra",
+        "name": "Franko",
+        "gender":      2,
+        "wCount":    677,
+        "top10words": "leads seraphs unhappy unlock secret stranger deep outlaws sits talk",
+        "betw":     30,
+        "deg":     18,
+        "str":   1102,
+        "class":      1
+      },
+      {
+        "char": "glo",
+        "name": "Glottenbal",
+        "gender":      2,
+        "wCount":    583,
+        "top10words": "accept maiden play scratch sprig terms thinkst foul audacious lose",
+        "betw":      0,
+        "deg":     16,
+        "str":   1152,
+        "class":      2
+      },
+      {
+        "char": "har",
+        "name": "Hartman",
+        "gender":      2,
+        "wCount":    533,
+        "top10words": "genrous knights malice shriek maid courteous died fighting lists after",
+        "betw":      0,
+        "deg":     22,
+        "str":   1176,
+        "class":      1
+      },
+      {
+        "char": "hug",
+        "name": "Hughobert",
+        "gender":      2,
+        "wCount":   1230,
+        "top10words": "martial notice approach hark son shriek blind boy consequence dolt",
+        "betw":     44,
+        "deg":     28,
+        "str":   2464,
+        "class":      2
+      },
+      {
+        "char": "mau",
+        "name": "Maurice",
+        "gender":      2,
+        "wCount":    294,
+        "top10words": "brazen did calls pride besides boild bottom chased coburghermixture coin",
+        "betw":      0,
+        "deg":      5,
+        "str":    589,
+        "class":      2
+      },
+      {
+        "char": "orr",
+        "name": "Orra",
+        "gender":      1,
+        "wCount":   3134,
+        "top10words": "awake sounds awful fro dreadful back faces shines waver windingsheets",
+        "betw":    164,
+        "deg":     23,
+        "str":   6119,
+        "class":      2
+      },
+      {
+        "char": "out",
+        "name": "Outlaws",
+        "gender":      3,
+        "wCount":    258,
+        "top10words": "uprouse nor diffrent disperse opning merry men undone ways discoverd",
+        "betw":      0,
+        "deg":      8,
+        "str":    634,
+        "class":      1
+      },
+      {
+        "char": "rud",
+        "name": "Rudigere",
+        "gender":      2,
+        "wCount":   1852,
+        "top10words": "hour never agent price rigid thee here this blood will",
+        "betw":     94,
+        "deg":     23,
+        "str":   3079,
+        "class":      2
+      },
+      {
+        "char": "ser",
+        "name": "Servants",
+        "gender":      3,
+        "wCount":     66,
+        "top10words": "clattring followers hundreds ittwas leisure orders passd trees bands basle",
+        "betw":      0,
+        "deg":     10,
+        "str":    130,
+        "class":      2
+      },
+      {
+        "char": "sol",
+        "name": "Soldiers",
+        "gender":      3,
+        "wCount":     52,
+        "top10words": "voice shriek dismal deeptangled ivy oergrown outworks wall marks thicket",
+        "betw":      0,
+        "deg":     20,
+        "str":    157,
+        "class":      2
+      },
+      {
+        "char": "the",
+        "name": "Theobald",
+        "gender":      2,
+        "wCount":   1127,
+        "top10words": "none captain contend devoted phantasies hartman honourd vain forms itself",
+        "betw":     66,
+        "deg":     18,
+        "str":   2266,
+        "class":      1
+      },
+      {
+        "char": "urs",
+        "name": "Urston",
+        "gender":      2,
+        "wCount":    280,
+        "top10words": "daughter feign forgiven shriek therefore affected allwise befriend blameless blasted",
+        "betw":      0,
+        "deg":     18,
+        "str":    624,
+        "class":      2
+      },
+      {
+        "char": "vas",
+        "name": "Vassals",
+        "gender":      3,
+        "wCount":    119,
+        "top10words": "account enforce fraud peril plots prisoner tempted tender thoughtst alarmd",
+        "betw":      0,
+        "deg":      9,
+        "str":    162,
+        "class":      2
+      }
+    ],
+    "links": [
+      {
+        "source": "ali",
+        "target": "ali",
+        "wCount":     27,
+        "top10words": "gazes sadness softer subsiding gradually merciful saying forefend knows she"
+      },
+      {
+        "source": "cat",
+        "target": "ali",
+        "wCount":      6,
+        "top10words": "meanest prudent hope right thou that abandond abet abide abode"
+      },
+      {
+        "source": "ele",
+        "target": "ali",
+        "wCount":     10,
+        "top10words": "fetters maniacs bound wretch cannot some shriek dismal what that"
+      },
+      {
+        "source": "fra",
+        "target": "ali",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "har",
+        "target": "ali",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "hug",
+        "target": "ali",
+        "wCount":     10,
+        "top10words": "martial notice hark approach high some shriek dismal what that"
+      },
+      {
+        "source": "orr",
+        "target": "ali",
+        "wCount":    256,
+        "top10words": "shall our valleys hall sounds when half doubt mine nor"
+      },
+      {
+        "source": "rud",
+        "target": "ali",
+        "wCount":     34,
+        "top10words": "changed forgiveness perceive spent token greatly ladies meekness unto desire"
+      },
+      {
+        "source": "sol",
+        "target": "ali",
+        "wCount":      9,
+        "top10words": "voice heard dismal have shriek what that abandond abet abide"
+      },
+      {
+        "source": "the",
+        "target": "ali",
+        "wCount":     25,
+        "top10words": "contend phantasies forbear itself forms world vain holds pray dark"
+      },
+      {
+        "source": "urs",
+        "target": "ali",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "ele",
+        "target": "att",
+        "wCount":      2,
+        "top10words": "speak what abandond abet abide abode about above absence abuse"
+      },
+      {
+        "source": "glo",
+        "target": "att",
+        "wCount":     22,
+        "top10words": "dizzy fangtheres mischief pains shoot sick devils scratch strangely couch"
+      },
+      {
+        "source": "hug",
+        "target": "att",
+        "wCount":     43,
+        "top10words": "both deadthou sonwhat wearst whisper bind devil joind straight bring"
+      },
+      {
+        "source": "rud",
+        "target": "att",
+        "wCount":     59,
+        "top10words": "search gomez door any aids betraydho dropt flight foundations garment"
+      },
+      {
+        "source": "sol",
+        "target": "att",
+        "wCount":      5,
+        "top10words": "voice heard have dismal abandond abet abide abode about above"
+      },
+      {
+        "source": "vas",
+        "target": "att",
+        "wCount":      6,
+        "top10words": "peril assist secure upon him you abandond abet abide abode"
+      },
+      {
+        "source": "ali",
+        "target": "cat",
+        "wCount":     39,
+        "top10words": "ever bloom pensiveness shrouded suspicious wan couldst strict nay colour"
+      },
+      {
+        "source": "cat",
+        "target": "cat",
+        "wCount":     13,
+        "top10words": "hide hole forbid discoverd earth where heaven then shall will"
+      },
+      {
+        "source": "orr",
+        "target": "cat",
+        "wCount":    920,
+        "top10words": "awful past night this which not thou its fearful there"
+      },
+      {
+        "source": "rud",
+        "target": "cat",
+        "wCount":    358,
+        "top10words": "thee thy master dost deal thou agent bent rigid wise"
+      },
+      {
+        "source": "vas",
+        "target": "cat",
+        "wCount":     33,
+        "top10words": "account alarmd good countess knows art done shortly virtuous thou"
+      },
+      {
+        "source": "ali",
+        "target": "ele",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "att",
+        "target": "ele",
+        "wCount":     44,
+        "top10words": "daggers limed news poison rackd retains stains stiffend suddenly swelld"
+      },
+      {
+        "source": "ele",
+        "target": "ele",
+        "wCount":     32,
+        "top10words": "leaders piteous remote route changing generous playful stately kindness alas"
+      },
+      {
+        "source": "fra",
+        "target": "ele",
+        "wCount":     21,
+        "top10words": "appeardbut enter noticeholla forth left pray till fear come give"
+      },
+      {
+        "source": "glo",
+        "target": "ele",
+        "wCount":      3,
+        "top10words": "hardship mass mighty abandond abet abide abode about above absence"
+      },
+      {
+        "source": "har",
+        "target": "ele",
+        "wCount":     11,
+        "top10words": "emboldens presence countess think much shall your shriek dismal what"
+      },
+      {
+        "source": "hug",
+        "target": "ele",
+        "wCount":    227,
+        "top10words": "she her consequence will dame obey doubt must rudigere thou"
+      },
+      {
+        "source": "orr",
+        "target": "ele",
+        "wCount":    254,
+        "top10words": "dreadful sounds again terrible air like beneath meet gentle sweet"
+      },
+      {
+        "source": "rud",
+        "target": "ele",
+        "wCount":     34,
+        "top10words": "changed forgiveness perceive spent token greatly ladies meekness unto desire"
+      },
+      {
+        "source": "sol",
+        "target": "ele",
+        "wCount":     11,
+        "top10words": "voice orras lady heard dismal have shriek what that abandond"
+      },
+      {
+        "source": "the",
+        "target": "ele",
+        "wCount":     21,
+        "top10words": "contend phantasies itself forms world vain holds dark oer her"
+      },
+      {
+        "source": "urs",
+        "target": "ele",
+        "wCount":      8,
+        "top10words": "does think she shriek dismal that what abandond abet abide"
+      },
+      {
+        "source": "ali",
+        "target": "fra",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "ele",
+        "target": "fra",
+        "wCount":     14,
+        "top10words": "imperfectly recoverd swoon sayst she well her from shriek not"
+      },
+      {
+        "source": "fra",
+        "target": "fra",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "har",
+        "target": "fra",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "hug",
+        "target": "fra",
+        "wCount":     44,
+        "top10words": "fail foundst indebted thread wandring franko guide sought become spot"
+      },
+      {
+        "source": "out",
+        "target": "fra",
+        "wCount":     92,
+        "top10words": "discoverd our close are depart escorting harmony invasion mates neighbours"
+      },
+      {
+        "source": "sol",
+        "target": "fra",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "the",
+        "target": "fra",
+        "wCount":    239,
+        "top10words": "captain servd genrous albert night few thee favour way not"
+      },
+      {
+        "source": "urs",
+        "target": "fra",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "att",
+        "target": "glo",
+        "wCount":      9,
+        "top10words": "lord way near chamber there you this not abandond abet"
+      },
+      {
+        "source": "glo",
+        "target": "glo",
+        "wCount":     39,
+        "top10words": "bravest combat excepted sleight whit coming luck mock cross quick"
+      },
+      {
+        "source": "har",
+        "target": "glo",
+        "wCount":      8,
+        "top10words": "knights malice courteous fighting lists after noble what abandond abet"
+      },
+      {
+        "source": "hug",
+        "target": "glo",
+        "wCount":    102,
+        "top10words": "boy hold son afraid apparent dismiss feasting graceless outrage rid"
+      },
+      {
+        "source": "mau",
+        "target": "glo",
+        "wCount":    179,
+        "top10words": "did lord you your its him glottenbal besides boild bottom"
+      },
+      {
+        "source": "orr",
+        "target": "glo",
+        "wCount":    155,
+        "top10words": "thy aching amazd because beforehand confirms courtship deepbasd dexterity flutterd"
+      },
+      {
+        "source": "the",
+        "target": "glo",
+        "wCount":     77,
+        "top10words": "too asking assented believed browsing gift hairy kid layst quarterlet"
+      },
+      {
+        "source": "ali",
+        "target": "har",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "ele",
+        "target": "har",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "fra",
+        "target": "har",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "glo",
+        "target": "har",
+        "wCount":     37,
+        "top10words": "boot damned defy envious great houses lords spite witchery fellowship"
+      },
+      {
+        "source": "har",
+        "target": "har",
+        "wCount":     25,
+        "top10words": "arrested distorted malignity righteous bursts forbid fell grievous ghastly smile"
+      },
+      {
+        "source": "hug",
+        "target": "har",
+        "wCount":     56,
+        "top10words": "courtesy affect chafes comst deceived gallst proceed utterd could than"
+      },
+      {
+        "source": "orr",
+        "target": "har",
+        "wCount":    210,
+        "top10words": "power share know all take spare eye myself thy being"
+      },
+      {
+        "source": "ser",
+        "target": "har",
+        "wCount":      8,
+        "top10words": "leisure rudolph hartman receive count falkenstein lord now abandond abet"
+      },
+      {
+        "source": "sol",
+        "target": "har",
+        "wCount":      9,
+        "top10words": "voice heard dismal have shriek what that abandond abet abide"
+      },
+      {
+        "source": "the",
+        "target": "har",
+        "wCount":    274,
+        "top10words": "hartman none her worthy thou oer fair give thinkst hold"
+      },
+      {
+        "source": "urs",
+        "target": "har",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "ali",
+        "target": "hug",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "att",
+        "target": "hug",
+        "wCount":     20,
+        "top10words": "borne disappeard whether devil hence last cannot watch midnight night"
+      },
+      {
+        "source": "ele",
+        "target": "hug",
+        "wCount":     98,
+        "top10words": "alas came lord her advised caressd corridor fawningly intrust jest"
+      },
+      {
+        "source": "fra",
+        "target": "hug",
+        "wCount":     48,
+        "top10words": "unhappy device drivn hard meant menwho necessity prison entry informd"
+      },
+      {
+        "source": "glo",
+        "target": "hug",
+        "wCount":     86,
+        "top10words": "aimd bid correction elseso forsooth inflict marvel pillars scorns sharply"
+      },
+      {
+        "source": "har",
+        "target": "hug",
+        "wCount":    132,
+        "top10words": "peace come barons coburgher declares disturbs durance encounter enmity gall"
+      },
+      {
+        "source": "hug",
+        "target": "hug",
+        "wCount":     44,
+        "top10words": "day belief bereftbut cursd deals girl guiltless harassd himheavens perverse"
+      },
+      {
+        "source": "mau",
+        "target": "hug",
+        "wCount":      5,
+        "top10words": "move alone him will this abandond abet abide abode about"
+      },
+      {
+        "source": "orr",
+        "target": "hug",
+        "wCount":    307,
+        "top10words": "back swathd say his mans dead living mate which your"
+      },
+      {
+        "source": "rud",
+        "target": "hug",
+        "wCount":    315,
+        "top10words": "your her long means toil you ive with can aldenberg"
+      },
+      {
+        "source": "ser",
+        "target": "hug",
+        "wCount":     22,
+        "top10words": "followers hundreds trees bands basle guess two strong banneret distant"
+      },
+      {
+        "source": "sol",
+        "target": "hug",
+        "wCount":     23,
+        "top10words": "deeptangled ivy oergrown outworks wall marks thicket wood voice ruind"
+      },
+      {
+        "source": "the",
+        "target": "hug",
+        "wCount":     21,
+        "top10words": "contend phantasies itself forms world vain holds dark oer her"
+      },
+      {
+        "source": "urs",
+        "target": "hug",
+        "wCount":    107,
+        "top10words": "een affected allwise blasted familiar favrite hinted hopes recall smites"
+      },
+      {
+        "source": "vas",
+        "target": "hug",
+        "wCount":      2,
+        "top10words": "behold lord abandond abet abide abode about above absence abuse"
+      },
+      {
+        "source": "glo",
+        "target": "mau",
+        "wCount":    129,
+        "top10words": "foul play eer thinkst theobald achieve barring befell bestrode blessing"
+      },
+      {
+        "source": "rud",
+        "target": "mau",
+        "wCount":    166,
+        "top10words": "counterfeited thee thy maurice meet fool amply avrice bounty commit"
+      },
+      {
+        "source": "ali",
+        "target": "orr",
+        "wCount":    148,
+        "top10words": "joy your cold pleasure there good well while you fear"
+      },
+      {
+        "source": "cat",
+        "target": "orr",
+        "wCount":    624,
+        "top10words": "story his its night set tell eve michaels run since"
+      },
+      {
+        "source": "ele",
+        "target": "orr",
+        "wCount":    136,
+        "top10words": "orra depressd not soon nay tis theobald always forgot gazest"
+      },
+      {
+        "source": "glo",
+        "target": "orr",
+        "wCount":    133,
+        "top10words": "accept maiden terms offer unless remain gladly right thou wherefore"
+      },
+      {
+        "source": "har",
+        "target": "orr",
+        "wCount":     73,
+        "top10words": "genrous ardour beara constrain council don eyeballs foreign load partner"
+      },
+      {
+        "source": "hug",
+        "target": "orr",
+        "wCount":    268,
+        "top10words": "thy aldenberg madam stubborn ulric thou wilt hadst this for"
+      },
+      {
+        "source": "orr",
+        "target": "orr",
+        "wCount":    384,
+        "top10words": "its dare awake awful hateful tis blast dread natural nearer"
+      },
+      {
+        "source": "out",
+        "target": "orr",
+        "wCount":     22,
+        "top10words": "chieftain ladythe lady ant begone letter please own hand sound"
+      },
+      {
+        "source": "rud",
+        "target": "orr",
+        "wCount":    648,
+        "top10words": "thy orra night hour thou human midnight madam endure fears"
+      },
+      {
+        "source": "ser",
+        "target": "orr",
+        "wCount":      8,
+        "top10words": "leisure rudolph hartman receive count falkenstein lord now abandond abet"
+      },
+      {
+        "source": "the",
+        "target": "orr",
+        "wCount":    408,
+        "top10words": "devoted thy orra like honourd devotion thee most bound who"
+      },
+      {
+        "source": "urs",
+        "target": "orr",
+        "wCount":    133,
+        "top10words": "daughter feign forgiven art therefore thou till his befriend blameless"
+      },
+      {
+        "source": "fra",
+        "target": "out",
+        "wCount":    195,
+        "top10words": "seraphs live ear stranger our midnight many place from advances"
+      },
+      {
+        "source": "orr",
+        "target": "out",
+        "wCount":     51,
+        "top10words": "human low suppressd tone unlike methought read seal sent spoke"
+      },
+      {
+        "source": "out",
+        "target": "out",
+        "wCount":    105,
+        "top10words": "uprouse nor merry opning men day our then are bewilderd"
+      },
+      {
+        "source": "the",
+        "target": "out",
+        "wCount":     25,
+        "top10words": "holla whoeer haunt outlawd guess entreat band forest shortly shalt"
+      },
+      {
+        "source": "ali",
+        "target": "rud",
+        "wCount":     11,
+        "top10words": "slain mercy confession make heaven hast her thee have not"
+      },
+      {
+        "source": "att",
+        "target": "rud",
+        "wCount":     12,
+        "top10words": "deepest searchd vault turret its castle faith though high from"
+      },
+      {
+        "source": "cat",
+        "target": "rud",
+        "wCount":    169,
+        "top10words": "hush thou ruthless alas thoughts find meaning know man thyself"
+      },
+      {
+        "source": "ele",
+        "target": "rud",
+        "wCount":     34,
+        "top10words": "uncertainty upbraiding goest changed conceald confess horrible awful dying entreat"
+      },
+      {
+        "source": "glo",
+        "target": "rud",
+        "wCount":     90,
+        "top10words": "rudigere traitor accident beast carcass honours kites medetested mere trick"
+      },
+      {
+        "source": "hug",
+        "target": "rud",
+        "wCount":    203,
+        "top10words": "dolt liest produce her him thou thy call maid accuser"
+      },
+      {
+        "source": "mau",
+        "target": "rud",
+        "wCount":    110,
+        "top10words": "brazen thou coin crowns denies draind entrust esteemd front jewels"
+      },
+      {
+        "source": "orr",
+        "target": "rud",
+        "wCount":    254,
+        "top10words": "thou awake dost retire weakness breast choose was cathrina never"
+      },
+      {
+        "source": "rud",
+        "target": "rud",
+        "wCount":    184,
+        "top10words": "tame never hold her this still fortune hope off secret"
+      },
+      {
+        "source": "ser",
+        "target": "rud",
+        "wCount":     32,
+        "top10words": "clattring ittwas orders passd shrill steeds honour hounds journey spearmen"
+      },
+      {
+        "source": "urs",
+        "target": "rud",
+        "wCount":     20,
+        "top10words": "desperation hardy thoughtless daring mistake rash dost confession wicked wretch"
+      },
+      {
+        "source": "vas",
+        "target": "rud",
+        "wCount":     74,
+        "top10words": "wicked discoverd enforce fraud plots prisoner tempted tender thoughtst arts"
+      },
+      {
+        "source": "har",
+        "target": "ser",
+        "wCount":      4,
+        "top10words": "attend shortly shall him abandond abet abide abode about above"
+      },
+      {
+        "source": "hug",
+        "target": "ser",
+        "wCount":      1,
+        "top10words": "force abandond abet abide abode about above absence abuse accept"
+      },
+      {
+        "source": "rud",
+        "target": "ser",
+        "wCount":     38,
+        "top10words": "anon idle talesill wont battlements folly knaves lights staring untimely"
+      },
+      {
+        "source": "sol",
+        "target": "ser",
+        "wCount":      5,
+        "top10words": "voice heard have dismal abandond abet abide abode about above"
+      },
+      {
+        "source": "ali",
+        "target": "sol",
+        "wCount":      8,
+        "top10words": "hast heard shriek what dismal thou that abandond abet abide"
+      },
+      {
+        "source": "att",
+        "target": "sol",
+        "wCount":      4,
+        "top10words": "hast heard thou what abandond abet abide abode about above"
+      },
+      {
+        "source": "ele",
+        "target": "sol",
+        "wCount":     13,
+        "top10words": "lead place where voice hast heard what shriek dismal thou"
+      },
+      {
+        "source": "fra",
+        "target": "sol",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "har",
+        "target": "sol",
+        "wCount":      8,
+        "top10words": "hast heard shriek what dismal thou that abandond abet abide"
+      },
+      {
+        "source": "hug",
+        "target": "sol",
+        "wCount":     16,
+        "top10words": "haste lead soldier way where didst heart hast heard thou"
+      },
+      {
+        "source": "ser",
+        "target": "sol",
+        "wCount":      4,
+        "top10words": "hast heard thou what abandond abet abide abode about above"
+      },
+      {
+        "source": "sol",
+        "target": "sol",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "urs",
+        "target": "sol",
+        "wCount":      8,
+        "top10words": "hast heard shriek what dismal thou that abandond abet abide"
+      },
+      {
+        "source": "vas",
+        "target": "sol",
+        "wCount":      4,
+        "top10words": "hast heard thou what abandond abet abide abode about above"
+      },
+      {
+        "source": "ali",
+        "target": "the",
+        "wCount":      2,
+        "top10words": "let her abandond abet abide abode about above absence abuse"
+      },
+      {
+        "source": "ele",
+        "target": "the",
+        "wCount":     16,
+        "top10words": "beholds shell soothing despair gradually restored kindly friends thus know"
+      },
+      {
+        "source": "fra",
+        "target": "the",
+        "wCount":    409,
+        "top10words": "but leads unlock thou where sits talk here calld deep"
+      },
+      {
+        "source": "glo",
+        "target": "the",
+        "wCount":     44,
+        "top10words": "audacious face favour burgher comest perch pull suits taunts vantage"
+      },
+      {
+        "source": "har",
+        "target": "the",
+        "wCount":    268,
+        "top10words": "thy she not her some fair worth for maid with"
+      },
+      {
+        "source": "orr",
+        "target": "the",
+        "wCount":    274,
+        "top10words": "hark your peep service its light methinks are yet come"
+      },
+      {
+        "source": "out",
+        "target": "the",
+        "wCount":     39,
+        "top10words": "conjecture foolish forfeit life hail pleadings unbidden wrong nay thy"
+      },
+      {
+        "source": "ser",
+        "target": "the",
+        "wCount":      8,
+        "top10words": "leisure rudolph hartman receive count falkenstein lord now abandond abet"
+      },
+      {
+        "source": "the",
+        "target": "the",
+        "wCount":     58,
+        "top10words": "agony changd deceivd embers figure hazard idiot nook real spears"
+      },
+      {
+        "source": "ali",
+        "target": "urs",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "ele",
+        "target": "urs",
+        "wCount":      8,
+        "top10words": "recognition terrible smile such shriek dismal what that abandond abet"
+      },
+      {
+        "source": "fra",
+        "target": "urs",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "har",
+        "target": "urs",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "hug",
+        "target": "urs",
+        "wCount":    209,
+        "top10words": "him feed was they his them son but abuse apt"
+      },
+      {
+        "source": "orr",
+        "target": "urs",
+        "wCount":     69,
+        "top10words": "pardon father eager nice perpetual sentence simplicity temper unshorn unskilful"
+      },
+      {
+        "source": "rud",
+        "target": "urs",
+        "wCount":     21,
+        "top10words": "add crimes presumption pretending repentance sins moments offer forced priest"
+      },
+      {
+        "source": "sol",
+        "target": "urs",
+        "wCount":      9,
+        "top10words": "voice heard dismal have shriek what that abandond abet abide"
+      },
+      {
+        "source": "urs",
+        "target": "urs",
+        "wCount":      4,
+        "top10words": "shriek dismal what that abandond abet abide abode about above"
+      },
+      {
+        "source": "cat",
+        "target": "vas",
+        "wCount":      2,
+        "top10words": "discoverd what abandond abet abide abode about above absence abuse"
+      },
+      {
+        "source": "hug",
+        "target": "vas",
+        "wCount":      7,
+        "top10words": "secured martial notice hark approach high some abandond abet abide"
+      },
+      {
+        "source": "rud",
+        "target": "vas",
+        "wCount":     29,
+        "top10words": "freak audacious honourable produce suspected brings commands speakst sudden warrant"
+      },
+      {
+        "source": "sol",
+        "target": "vas",
+        "wCount":      5,
+        "top10words": "voice heard have dismal abandond abet abide abode about above"
+      }
+    ]
+  },
+  "remorse": {
+    "meta": {
+      "title": "Remorse",
+      "author": "Samuel Taylor Coleridge",
+      "date":   1813
+    },
+    "nodes": [
+      {
+        "char": "alh",
+        "name": " Alhadra",
+        "gender":      1,
+        "wCount":   1418,
+        "top10words": "husbands was had that stood blood makes him groan hanging",
+        "betw":     38,
+        "deg":     15,
+        "str":   1877,
+        "class":      2
+      },
+      {
+        "char": "alv",
+        "name": " Don Alvar",
+        "gender":      2,
+        "wCount":   2821,
+        "top10words": "conscience she guilty that thy with from dread een thou",
+        "betw":     73,
+        "deg":     14,
+        "str":   5046,
+        "class":      3
+      },
+      {
+        "char": "att",
+        "name": " Attendants",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":      2,
+        "class":      5
+      },
+      {
+        "char": "fam",
+        "name": " Familiars of the Inquisition",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":     15,
+        "class":      6
+      },
+      {
+        "char": "isi",
+        "name": " Isidore",
+        "gender":      2,
+        "wCount":   1360,
+        "top10words": "you that lord had was mock stones gratitude its but",
+        "betw":      0,
+        "deg":      4,
+        "str":   2197,
+        "class":      1
+      },
+      {
+        "char": "mon",
+        "name": " Monviedro",
+        "gender":      2,
+        "wCount":    253,
+        "top10words": "grieve lord prove holy false inquisition moors abjured ampler asseverations",
+        "betw":      9,
+        "deg":     10,
+        "str":    373,
+        "class":      1
+      },
+      {
+        "char": "moo",
+        "name": " Moors",
+        "gender":      3,
+        "wCount":     15,
+        "top10words": "alla perished away she murder say did his abbey abhorrence",
+        "betw":      0,
+        "deg":      7,
+        "str":    373,
+        "class":      2
+      },
+      {
+        "char": "nao",
+        "name": " Naomi",
+        "gender":      2,
+        "wCount":     39,
+        "top10words": "alla chief enjoin obeyed dies garments prophet bless comfort haste",
+        "betw":      0,
+        "deg":      5,
+        "str":    434,
+        "class":      2
+      },
+      {
+        "char": "ord",
+        "name": " Don Ordonio",
+        "gender":      2,
+        "wCount":   2354,
+        "top10words": "you him thou that this she come fool theres message",
+        "betw":     44,
+        "deg":     18,
+        "str":   5305,
+        "class":      1
+      },
+      {
+        "char": "pea",
+        "name": " Peasants",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      1,
+        "str":     58,
+        "class":      7
+      },
+      {
+        "char": "ser",
+        "name": " Servants",
+        "gender":      3,
+        "wCount":      0,
+        "top10words": "0",
+        "betw":      0,
+        "deg":      3,
+        "str":     81,
+        "class":      3
+      },
+      {
+        "char": "ter",
+        "name": " Dona Teresa",
+        "gender":      1,
+        "wCount":   1788,
+        "top10words": "that bend heart him hence alvar feel alvars voice you",
+        "betw":     45,
+        "deg":     12,
+        "str":   3761,
+        "class":      4
+      },
+      {
+        "char": "val",
+        "name": " Marquis Valdez",
+        "gender":      2,
+        "wCount":    969,
+        "top10words": "him bless fate that alvar his neer old captured with",
+        "betw":      0,
+        "deg":     12,
+        "str":   2235,
+        "class":      4
+      },
+      {
+        "char": "voi",
+        "name": " Voices",
+        "gender":      3,
+        "wCount":     59,
+        "top10words": "compel domine miserere blacker charm lest boatmen breezes cadence chapel",
+        "betw":      0,
+        "deg":      2,
+        "str":    118,
+        "class":      8
+      },
+      {
+        "char": "zul",
+        "name": " Zulimez",
+        "gender":      2,
+        "wCount":    220,
+        "top10words": "mariners shaped you grows oath yours gentle murderer alpujarrasthere balmy",
+        "betw":      0,
+        "deg":      3,
+        "str":    919,
+        "class":      3
+      }
+    ],
+    "links": [
+      {
+        "source": "alh",
+        "target": "alh",
+        "wCount":    149,
+        "top10words": "sole woods she athirst autumn blossoming boundless careless childrenisidores childrenson"
+      },
+      {
+        "source": "alv",
+        "target": "alh",
+        "wCount":    152,
+        "top10words": "pledged sought word died her time avenger avenging betide betwixt"
+      },
+      {
+        "source": "mon",
+        "target": "alh",
+        "wCount":      2,
+        "top10words": "attend woman abbey abhorrence abhorrent abidingplace abjured abortive about above"
+      },
+      {
+        "source": "moo",
+        "target": "alh",
+        "wCount":      4,
+        "top10words": "perished alla away abbey abhorrence abhorrent abidingplace abjured abortive about"
+      },
+      {
+        "source": "nao",
+        "target": "alh",
+        "wCount":     37,
+        "top10words": "alla chief enjoin obeyed dies garments prophet haste onward where"
+      },
+      {
+        "source": "ord",
+        "target": "alh",
+        "wCount":     34,
+        "top10words": "home attend foully brave thank serve thine fathers give new"
+      },
+      {
+        "source": "ter",
+        "target": "alh",
+        "wCount":     76,
+        "top10words": "hush shame see released shewn aged alpujarras crime kneel near"
+      },
+      {
+        "source": "val",
+        "target": "alh",
+        "wCount":      5,
+        "top10words": "meantime refreshment take return with abbey abhorrence abhorrent abidingplace abjured"
+      },
+      {
+        "source": "alh",
+        "target": "alv",
+        "wCount":     50,
+        "top10words": "dreamt ignoble leader perplex seemst suspect gallant hatred killed brethren"
+      },
+      {
+        "source": "alv",
+        "target": "alv",
+        "wCount":    785,
+        "top10words": "she her traitress thy this innocent dance toils vast vows"
+      },
+      {
+        "source": "ord",
+        "target": "alv",
+        "wCount":    736,
+        "top10words": "thou you thee incense theres come dead she are can"
+      },
+      {
+        "source": "ter",
+        "target": "alv",
+        "wCount":    343,
+        "top10words": "thee you dreams mercy stranger forgive sir didst thou alvar"
+      },
+      {
+        "source": "val",
+        "target": "alv",
+        "wCount":     33,
+        "top10words": "bless guessd prating blessing idly theea don stands virtuous alvars"
+      },
+      {
+        "source": "zul",
+        "target": "alv",
+        "wCount":    220,
+        "top10words": "mariners shaped you grows oath yours gentle murderer all your"
+      },
+      {
+        "source": "ter",
+        "target": "att",
+        "wCount":      2,
+        "top10words": "retire let abbey abhorrence abhorrent abidingplace abjured abortive about above"
+      },
+      {
+        "source": "mon",
+        "target": "fam",
+        "wCount":     15,
+        "top10words": "judges first seize suffer words inquisition sorcerer holy speak shall"
+      },
+      {
+        "source": "isi",
+        "target": "isi",
+        "wCount":    108,
+        "top10words": "moving abortive beard clutchd consequence cow deathwatch fingers fret hawhats"
+      },
+      {
+        "source": "ord",
+        "target": "isi",
+        "wCount":    729,
+        "top10words": "you her she man lover thou thy some now debt"
+      },
+      {
+        "source": "mon",
+        "target": "mon",
+        "wCount":     15,
+        "top10words": "occasion forehead grieve stand start drops been return did very"
+      },
+      {
+        "source": "ord",
+        "target": "mon",
+        "wCount":     70,
+        "top10words": "reverend father grant authority beholden catholic changes liberate oerprizes opinion"
+      },
+      {
+        "source": "ter",
+        "target": "mon",
+        "wCount":      7,
+        "top10words": "stay recover soon father lord will abbey abhorrence abhorrent abidingplace"
+      },
+      {
+        "source": "val",
+        "target": "mon",
+        "wCount":     13,
+        "top10words": "abruptly doted pressed whom fate father you know one upon"
+      },
+      {
+        "source": "alh",
+        "target": "moo",
+        "wCount":    320,
+        "top10words": "had should saw them asleep listening perished stood torch arm"
+      },
+      {
+        "source": "moo",
+        "target": "moo",
+        "wCount":      8,
+        "top10words": "alla away did murder say she his abbey abhorrence abhorrent"
+      },
+      {
+        "source": "nao",
+        "target": "moo",
+        "wCount":      2,
+        "top10words": "away abbey abhorrence abhorrent abidingplace abjured abortive about above abruptly"
+      },
+      {
+        "source": "ord",
+        "target": "moo",
+        "wCount":     28,
+        "top10words": "off ashes asunder bare rend ruffians touches scatter strength flesh"
+      },
+      {
+        "source": "alh",
+        "target": "nao",
+        "wCount":    364,
+        "top10words": "chieftains had groan wet sword should saw them was asleep"
+      },
+      {
+        "source": "moo",
+        "target": "nao",
+        "wCount":      3,
+        "top10words": "alla away abbey abhorrence abhorrent abidingplace abjured abortive about above"
+      },
+      {
+        "source": "ord",
+        "target": "nao",
+        "wCount":     28,
+        "top10words": "off ashes asunder bare rend ruffians touches scatter strength flesh"
+      },
+      {
+        "source": "alh",
+        "target": "ord",
+        "wCount":    124,
+        "top10words": "husbands three curse almeria bloodwithin crowd dogs hardened lap lean"
+      },
+      {
+        "source": "alv",
+        "target": "ord",
+        "wCount":    652,
+        "top10words": "thou thee what thy look chiefly insect means wedded pang"
+      },
+      {
+        "source": "isi",
+        "target": "ord",
+        "wCount":   1252,
+        "top10words": "lord you that its had stones who his told was"
+      },
+      {
+        "source": "mon",
+        "target": "ord",
+        "wCount":    137,
+        "top10words": "lord false your holy abjured ampler asseverations audience authorize creed"
+      },
+      {
+        "source": "ord",
+        "target": "ord",
+        "wCount":    410,
+        "top10words": "fool dupd isidore thousand lure nearer treason blood aye duped"
+      },
+      {
+        "source": "ter",
+        "target": "ord",
+        "wCount":    118,
+        "top10words": "stop hence where deathwound flight frenzied imagined seduced soothd taen"
+      },
+      {
+        "source": "val",
+        "target": "ord",
+        "wCount":    230,
+        "top10words": "had pipe lookd yielded their blind wild son fancies murderers"
+      },
+      {
+        "source": "alv",
+        "target": "pea",
+        "wCount":     58,
+        "top10words": "our she awful delights dire een events goads instructs monitress"
+      },
+      {
+        "source": "alv",
+        "target": "ser",
+        "wCount":     58,
+        "top10words": "our she awful delights dire een events goads instructs monitress"
+      },
+      {
+        "source": "mon",
+        "target": "ser",
+        "wCount":     15,
+        "top10words": "judges first seize suffer words inquisition sorcerer holy speak shall"
+      },
+      {
+        "source": "ord",
+        "target": "ser",
+        "wCount":      8,
+        "top10words": "haste dungeon off why you him with not abbey abhorrence"
+      },
+      {
+        "source": "alh",
+        "target": "ter",
+        "wCount":    402,
+        "top10words": "lady gentle you five was ago great loves him hard"
+      },
+      {
+        "source": "alv",
+        "target": "ter",
+        "wCount":    443,
+        "top10words": "beloved maid brief guilty guilt teresa our prayed let storm"
+      },
+      {
+        "source": "ord",
+        "target": "ter",
+        "wCount":     59,
+        "top10words": "whither believe never ceaseless closing dirge eyelids lulling mocks preternatural"
+      },
+      {
+        "source": "ter",
+        "target": "ter",
+        "wCount":    457,
+        "top10words": "alvar bliss question hard one tremble that moor sounds when"
+      },
+      {
+        "source": "val",
+        "target": "ter",
+        "wCount":    612,
+        "top10words": "nor his old thought thy bright creatures wrong fancy with"
+      },
+      {
+        "source": "alh",
+        "target": "val",
+        "wCount":      9,
+        "top10words": "free husbands stay till may here will not abbey abhorrence"
+      },
+      {
+        "source": "alv",
+        "target": "val",
+        "wCount":     80,
+        "top10words": "hide our stream blessing flow unmingled way she thy awful"
+      },
+      {
+        "source": "mon",
+        "target": "val",
+        "wCount":     84,
+        "top10words": "lord bravely evidence four hit illustrious infidel instantly interpretation morescos"
+      },
+      {
+        "source": "ord",
+        "target": "val",
+        "wCount":    232,
+        "top10words": "yes reptile crime doted dead monviedro father what love fancies"
+      },
+      {
+        "source": "ter",
+        "target": "val",
+        "wCount":    785,
+        "top10words": "sire his wretched countenance pardon joy alvar bid breeze gladness"
+      },
+      {
+        "source": "val",
+        "target": "val",
+        "wCount":     76,
+        "top10words": "conjures dares entreats himfor hostage imprisond intercept outweigh sorrowwhy thitherlet"
+      },
+      {
+        "source": "voi",
+        "target": "voi",
+        "wCount":     59,
+        "top10words": "compel domine miserere charm lest blacker spell boatmen breezes cadence"
+      },
+      {
+        "source": "alv",
+        "target": "zul",
+        "wCount":    651,
+        "top10words": "she zulimez her long hail ordonios more add belgic complexion"
+      },
+      {
+        "source": "ord",
+        "target": "zul",
+        "wCount":     48,
+        "top10words": "theres abbey few imp leaf miracles muttered odd ruined serviceable"
+      }
+    ]
+  }
+}
