@@ -58,7 +58,7 @@
     var color = d3.scaleOrdinal(d3.schemeSet2);
 
     // Declare basic appearance parameters.
-    var radius = 25, stroke = 12, radMin = 4, strokeMin = 0.5;
+    var radius = 35, stroke = 12, radMin = 7, strokeMin = 0.5;
 
     // Set up the force layout algorithm
     var simulation = d3.forceSimulation()
@@ -114,7 +114,7 @@
         title.html(null);
 
         // Reset the simulation:
-        simulation.alpha(1).restart()
+        simulation.alpha(1)
       }
 
       // Function to create a new simulation.
