@@ -6,7 +6,7 @@ The drama of the Romantic period is virtually forgotten today. Ibsen and Shakesp
 
 This visualisation aims to unveil this forgotten realm of drama to a new public.
 
-You can see it online here: http://dh.michaelgfalk.com.au/romanticDramaUnveiled/
+You can see it online here: http://dh.michaelfalk.com.au/romanticDramaUnveiled/
 
 ## Help
 
